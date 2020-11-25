@@ -17,7 +17,7 @@ title: ""
   </head>
   <body>
     <div style="margin-top:50px;" class="img-container"> <!-- Block parent element -->
-      <img src="images/ale.jpg" height="350" width="450"/>
+      <img src="images/ale.jpg" alt="" height="350" width="450"/>
     </div>
   </body>
 </html>
