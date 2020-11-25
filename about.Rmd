@@ -7,7 +7,7 @@ header-includes:
 
 :::: {.columns}
 ::: {.column width="40%"}
-![](images/me.jpg){height=650px}
+![](images/me.jpg)
 :::
 ::: {.column width="60%"}
 &nbsp;
