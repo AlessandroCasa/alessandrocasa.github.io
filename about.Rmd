@@ -5,16 +5,29 @@ header-includes:
 ---
 &nbsp;
 
-:::: {.columns}
-::: {.column width="40%"}
-![](images/me.jpg)
-:::
-::: {.column width="60%"}
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="margin-top:50px;" class="img-container"> <!-- Block parent element -->
+      <img src="images/me.jpg" alt="" height="350" width="450"/>
+    </div>
+  </body>
+</html>
+<br>
+
+&nbsp;
 
 
 ## IN REAL LIFE 
@@ -38,5 +51,4 @@ header-includes:
 
 * *Lockdown-induced triathlon utopia:* /ˈlɒk.daʊn ɪnˈdjuːs traɪˈæθ.lɒn juːˈtəʊ.pi.ə/ <br>
   a period of my life during which early bird habits and multiple lockdowns are teaming up and forcing me to start running and cycling instead of swimming ([My Strava profile](https://www.strava.com/athletes/63064430))
-:::
-::::
+
