@@ -1,0 +1,47 @@
+---
+title: ""
+---
+&nbsp;
+
+I currently work as Postdoctoral Researcher in Statistics at the [School of Mathematics and Statistics](https://www.ucd.ie/mathstat/), University College Dublin and I am affiliated with [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org). I am a member of [VistaMilk](https://www.vistamilk.ie), a SFI Research Centre aiming to transform Irish dairy sector into a global leader in sustainable Agri-Tech. <br>
+My full CV is available [here](documents/cv.pdf)
+
+&nbsp;
+
+## EDUCATION 
+* **[2016-2020]** - PhD in Statistics, University of Padova <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor [Prof. Giovanna Menardi](https://homes.stat.unipd.it/giovannamenardi/) <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Thesis title: *Climbing modes and exploring mixtures: a journey in density-based clustering*
+
+* **[2014-2016]** - Master Degree in Statistical Sciences, University of Padova <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Final degree: 110/110 cum laude
+
+* **[2011-2014]** - Bachelor Degree in Statistics, Econimics and Finance, University of Padova <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Final degree: 110/110 cum laude
+
+&nbsp;
+
+## VISITING PERIODS 
+* **[Oct 2018 - Dec 2018]** - Visiting scholar under the supervision of Prof. Charles Bouveyron at the Université Cote d’Azur
+
+* **[Apr 2018]** - Visiting scholar under the supervision of Prof. Luca Scrucca at the University of Perugia
+
+* **[Oct 2017 - Dec 2018]** - Visiting scholar under the supervision of Prof. Richard Samworth at the University of Cambridge
+
+&nbsp;
+
+## EXTRA
+* Co-organizer of the first edition of the **Annual International Workshop on Spectroscopy Data** that will be held (unfortunately online) on the 28th and the 29th of April 2021 
+
+* Co-organizer of the monthly IR-group meeting gathering all the VistaMilk researchers working with infrared technologies 
+
+* I took part to some data analysis competition such as Stats Under the Stars (organized by the Italian Statistical Society) and Data Science Game (sponsored by Google and Capgemini)
+
+* I was one of the participants of the first edition of [Start Up Research](http://www.congressi.unisi.it/startupresearch/)
+
+* **Reviewing activity**: Annals of Applied Statistics, Computational Statistics and Data Analysis, Knowledge-based systems, Mathematics, Social Indicators Research, WIREs computational statistics
+
+
+
+
+

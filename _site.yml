@@ -1,0 +1,23 @@
+output:
+  html_document:
+    theme: lumen
+    highlight: textmate
+
+name: "my-website"
+navbar:
+  title: "Alessandro Casa"
+  href: index.html
+  right:
+    - text: "Bio"
+      href: bio.html
+    - text: "Research"
+      href: research.html
+    - text: "Talks"
+      href: talks.html  
+    - text: "Teaching & Software"
+      href: teaching.html
+    - text: "Contact"
+      href: contact.html
+    - text: "Other stuff"
+      href: about.html  
+output_dir: "."

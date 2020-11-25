@@ -1,0 +1,28 @@
+---
+title: ""
+---
+&nbsp;
+
+## TEACHING EXPERIENCE 
+### UNIVERSITY COLLEGE DUBLIN
+* Instructor for the module STAT20060 - Statistics & Probability <br>
+Level 2 - Academic year 2019/2020
+* Tutor for the module STAT20060 - Statistics & Probability <br> 
+Level 2 - Academic year 2019/2020
+* Tutor for the modules STAT30270/40590 - Statistical Machine Learning <br>
+Level 3 - Academic year 2019/2020
+
+
+### UNIVERSITY OF PADOVA
+* *Bike sharing in Paris: a case study* (in italian). Specialist lecture during the class Statistica Iterazione <br>
+Master degree - Academic year 2018/2019
+
+&nbsp;
+
+## SOFTWARE
+I am the author or the co-author of the following R packages 
+
+* **BSMC** (with [J.E.Chacon](http://matematicas.unex.es/~jechacon/index_eng.htm) and [G.Menardi](https://homes.stat.unipd.it/giovannamenardi/)) <br>
+Computes two different modal clustering-oriented bandwidth selectors obtained as the minimizer of the Asymptotic Expected Distance in Measure (AEDM) derived in Casa, A., Chacon, J.E. & Menardi, G. (2020) ([Link](https://github.com/AlessandroCasa/BsMc))
+* **RAINBAUD** (with [T. Padellini](https://tulliapadellini.github.io/code/)) <br>
+Transforms your arbitrarily long text files into color-palettes. It implements Latent Dirichlet Allocation for topic modeling to summarize long text and it provides color aggregation and color sorting methods ([Link](https://github.com/tulliapadellini/rainbaud))
