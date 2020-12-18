@@ -11,7 +11,7 @@
 
 
 
-<title>teaching.utf8</title>
+<title>TEACHING</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,6 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -30,7 +32,7 @@
   div.column{display: inline-block; vertical-align: top; width: 50%;}
   div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   ul.task-list{list-style: none;}
-      </style>
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -310,13 +312,11 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">TEACHING</h1>
 
 </div>
 
 
-<p> </p>
-<div id="teaching-experience" class="section level2">
-<h2>TEACHING EXPERIENCE</h2>
 <div id="university-college-dublin" class="section level3">
 <h3>UNIVERSITY COLLEGE DUBLIN</h3>
 <ul>
@@ -331,7 +331,6 @@ $(document).ready(function () {
 <li><em>Bike sharing in Paris: a case study</em> (in italian). Specialist lecture during the class Statistica Iterazione <br> Master degree - Academic year 2018/2019</li>
 </ul>
 <p> </p>
-</div>
 </div>
 <div id="software" class="section level2">
 <h2>SOFTWARE</h2>
@@ -351,7 +350,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

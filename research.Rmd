@@ -1,9 +1,7 @@
 ---
-title: ""
+title: "RESEARCH"
 ---
-&nbsp;
 
-## RESEARCH
 My research has mainly focused on the development of tools and methodologies pertaining to the classification and clustering analysis realms, with a specific attention to their density-based formulation. I have been lucky enough to work on this topic both from a parametric (model-based) and nonparametric (modal) standpoint and both from a theoretical and from a more application-motivated point of view. <br>
 Currently I am working under the supervision of [Prof. Brendan Murphy](https://people.ucd.ie/brendan.murphy) on the development of latent variable models to summarize the information recorded in high-dimensional, dependent and complex-structured data. Moreover, within the VistaMilk project, I am actively collaborating with animal scientists to improve prediction performances of milk-related features. 
 

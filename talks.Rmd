@@ -1,10 +1,8 @@
 ---
-title: ''
+title: 'TALKS'
 output: html_document
 ---
-&nbsp;
 
-## TALKS 
 * *Better than the best? Blending models and approaches in density-based clustering* ([slides](documents/wg_ucd.pdf), February 2020) <br>
 Working Group on Statistical Learning, Dublin [invited]
 

@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "BIO"
 ---
-&nbsp;
 
 I currently work as Postdoctoral Researcher in Statistics at the [School of Mathematics and Statistics](https://www.ucd.ie/mathstat/), University College Dublin and I am affiliated with [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org). I am a member of [VistaMilk](https://www.vistamilk.ie), a SFI Research Centre aiming to transform Irish dairy sector into a global leader in sustainable Agri-Tech. <br>
 My full CV is available [here](documents/cv.pdf)
@@ -39,7 +38,7 @@ My full CV is available [here](documents/cv.pdf)
 
 * I was one of the participants of the first edition of [Start Up Research](http://www.congressi.unisi.it/startupresearch/)
 
-* **Reviewing activity**: Annals of Applied Statistics, Computational Statistics and Data Analysis, Knowledge-based systems, Mathematics, Social Indicators Research, WIREs computational statistics
+* **Reviewing activity**: Annals of Applied Statistics, Computational Statistics and Data Analysis, Knowledge-based systems, Mathematics, Social Indicators Research, Stat, WIREs computational statistics
 
 
 

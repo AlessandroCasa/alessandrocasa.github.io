@@ -11,7 +11,7 @@
 
 
 
-<title>bio.utf8</title>
+<title>BIO</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,6 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -30,7 +32,7 @@
   div.column{display: inline-block; vertical-align: top; width: 50%;}
   div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   ul.task-list{list-style: none;}
-      </style>
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -310,11 +312,11 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">BIO</h1>
 
 </div>
 
 
-<p> </p>
 <p>I currently work as Postdoctoral Researcher in Statistics at the <a href="https://www.ucd.ie/mathstat/">School of Mathematics and Statistics</a>, University College Dublin and I am affiliated with <a href="https://www.insight-centre.org">Insight SFI Research Centre for Data Analytics</a>. I am a member of <a href="https://www.vistamilk.ie">VistaMilk</a>, a SFI Research Centre aiming to transform Irish dairy sector into a global leader in sustainable Agri-Tech. <br> My full CV is available <a href="documents/cv.pdf">here</a></p>
 <p> </p>
 <div id="education" class="section level2">
@@ -342,7 +344,7 @@ $(document).ready(function () {
 <li><p>Co-organizer of the monthly IR-group meeting gathering all the VistaMilk researchers working with infrared technologies</p></li>
 <li><p>I took part to some data analysis competition such as Stats Under the Stars (organized by the Italian Statistical Society) and Data Science Game (sponsored by Google and Capgemini)</p></li>
 <li><p>I was one of the participants of the first edition of <a href="http://www.congressi.unisi.it/startupresearch/">Start Up Research</a></p></li>
-<li><p><strong>Reviewing activity</strong>: Annals of Applied Statistics, Computational Statistics and Data Analysis, Knowledge-based systems, Mathematics, Social Indicators Research, WIREs computational statistics</p></li>
+<li><p><strong>Reviewing activity</strong>: Annals of Applied Statistics, Computational Statistics and Data Analysis, Knowledge-based systems, Mathematics, Social Indicators Research, Stat, WIREs computational statistics</p></li>
 </ul>
 </div>
 
@@ -355,7 +357,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

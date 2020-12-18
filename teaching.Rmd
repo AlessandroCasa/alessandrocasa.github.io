@@ -1,9 +1,7 @@
 ---
-title: ""
+title: "TEACHING"
 ---
-&nbsp;
 
-## TEACHING EXPERIENCE 
 ### UNIVERSITY COLLEGE DUBLIN
 * Instructor for the module STAT20060 - Statistics & Probability <br>
 Level 2 - Academic year 2019/2020
