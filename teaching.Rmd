@@ -18,9 +18,11 @@ Master degree - Academic year 2018/2019
 &nbsp;
 
 ## SOFTWARE
-I am the author or the co-author of the following R packages 
+Most of my code is available on my Github page.
 
 * **BSMC** (with [J.E.Chacon](http://matematicas.unex.es/~jechacon/index_eng.htm) and [G.Menardi](https://homes.stat.unipd.it/giovannamenardi/)) <br>
 Computes two different modal clustering-oriented bandwidth selectors obtained as the minimizer of the Asymptotic Expected Distance in Measure (AEDM) derived in Casa, A., Chacon, J.E. & Menardi, G. (2020) ([Link](https://github.com/AlessandroCasa/BsMc))
+* **NP_Semisupervised_Class** (with [G.Menardi](https://homes.stat.unipd.it/giovannamenardi/)) <br>
+The folder on Github contains the code to implement the nonparametric semisupervised classification procedure proposed in Casa, A. & Menardi, G. (2021+) ([Link](https://github.com/AlessandroCasa/NP_SemiSupervised_Class))
 * **RAINBAUD** (with [T. Padellini](https://tulliapadellini.github.io/code/)) <br>
 Transforms your arbitrarily long text files into color-palettes. It implements Latent Dirichlet Allocation for topic modeling to summarize long text and it provides color aggregation and color sorting methods ([Link](https://github.com/tulliapadellini/rainbaud))

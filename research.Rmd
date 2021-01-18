@@ -39,7 +39,7 @@ Studies in Neural Data Science, Springer Volume ‘Proceedings in Mathematics & 
 
 #### Refereed Conference Proceedings
 * Casa, A., Chacon, J.E. & Menardi, G. (2019). *Asymptotics for bandwidth selection in nonparametric clustering.* <br>
-CLADAG 2019 - Book of Short Papers.
+CLADAG 2019 - Book of Short Papers. ISBN: 978-88-8317-108-6
 * Casa, A. & Menardi, G. (2019). *Nonparametric Semisupervised Classification and Variable Selection for New Physics Searches.* <br> 
 EMS 2019 - Program and Book of Abstracts.
 * Pascali, G., Casa, A. & Menardi, G. (2019). *Co-clustering TripAdvisor data for personalized recommendations.* <br>
