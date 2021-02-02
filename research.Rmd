@@ -12,11 +12,15 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 * Latent variable models
 * Dimensionality reduction 
 * Computational statistics
+* Chemometrics
 
 
 ### PUBLICATIONS
 #### Preprints and Submitted Papers
-* Frizzarin M., Gormley I.C., Berry D.P., Murphy T.B., Casa A., Lynch A. & McParland S. (2020+). *Predicting cow milk quality traits from routinely available milk spectra using statistical machine learning methods.* <br>
+* Casa, A., O'Callaghan, T.F. & Murphy, T.B. (2021). 
+*Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data*. <br>
+[(arXiv)](https://arxiv.org/pdf/2101.12499.pdf)
+* Frizzarin, M., Gormley, I.C., Berry, D.P., Murphy, T.B., Casa, A., Lynch, A. & McParland, S. (2020+). *Predicting cow milk quality traits from routinely available milk spectra using statistical machine learning methods.* <br>
 * Casa, A. & Menardi, G. (2020+). *Nonparametric semi-supervised classification with application to signal detection in High Energy Physics.* <br>
 [(arXiv)](https://arxiv.org/pdf/1809.02977.pdf)
 

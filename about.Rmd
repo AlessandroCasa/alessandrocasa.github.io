@@ -1,5 +1,5 @@
 ---
-title: "OTHER STUFF"
+title: "IN REAL LIFE"
 header-includes:
   - \usepackage{multicol}
 ---
@@ -30,7 +30,6 @@ header-includes:
 &nbsp;
 
 
-## IN REAL LIFE 
 * Gold medalist in jumping from one bad decision to another 
 
 * Being born near mountains in my spare time I take the occasion to go hiking, climbing and to hang out with chamois
