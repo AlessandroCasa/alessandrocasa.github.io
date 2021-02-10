@@ -3,8 +3,11 @@ title: 'TALKS'
 output: html_document
 ---
 
+* *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data* ([slides](documents/wg_ucd_2021.pdf), February 2021) <br>
+Working Group on Statistical Learning, Dublin [invited seminar]
+
 * *Better than the best? Blending models and approaches in density-based clustering* ([slides](documents/wg_ucd.pdf), February 2020) <br>
-Working Group on Statistical Learning, Dublin [invited]
+Working Group on Statistical Learning, Dublin [invited seminar]
 
 * *Asymptotics for bandwidth selection in nonparametric clustering* ([slides](documents/cladag19.pdf), September 2019) <br> 
 Classification and Data Analysis Group, Cassino [invited]
