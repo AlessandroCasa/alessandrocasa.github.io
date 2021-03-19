@@ -7,10 +7,10 @@ My full CV is available [here](documents/cv.pdf)
 
 &nbsp;
 
-## EDUCATION 
+### EDUCATION 
 * **[2016-2020]** - PhD in Statistics, University of Padova <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor [Prof. Giovanna Menardi](https://homes.stat.unipd.it/giovannamenardi/) <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Thesis title: *Climbing modes and exploring mixtures: a journey in density-based clustering*
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Thesis title: *Climbing modes and exploring mixtures: a journey in density-based clustering* [(Link)](http://paduaresearch.cab.unipd.it/12085/)
 
 * **[2014-2016]** - Master Degree in Statistical Sciences, University of Padova <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Final degree: 110/110 cum laude
@@ -20,7 +20,7 @@ My full CV is available [here](documents/cv.pdf)
 
 &nbsp;
 
-## VISITING PERIODS 
+### VISITING PERIODS 
 * **[Oct 2018 - Dec 2018]** - Visiting scholar under the supervision of Prof. Charles Bouveyron at the Université Cote d’Azur
 
 * **[Apr 2018]** - Visiting scholar under the supervision of Prof. Luca Scrucca at the University of Perugia
@@ -29,16 +29,16 @@ My full CV is available [here](documents/cv.pdf)
 
 &nbsp;
 
-## EXTRA
-* Co-organizer of the first edition of the **Annual International Workshop on Spectroscopy Data** that will be held (unfortunately online) on the 28th and the 29th of April 2021 
+### OTHER ACTIVITIES
+* Academic Lead of the Organizing Committee of the inaugural **International Workshop on Spectroscopy and Chemometrics** which will be held online on the 28th and the 29th of April 2021. For information and registration click on the following [link](https://www.eventbrite.ie/e/international-workshop-on-spectroscopy-and-chemometrics-tickets-135663217335)
 
-* Co-organizer of the monthly IR-group meeting gathering all the VistaMilk researchers working with infrared technologies 
+* Co-organizer of the monthly IR-group meeting gathering all the VistaMilk researchers (but not limited to) working with infrared technologies. If you would like to attend to our meetings and to join our mailing list, feel free to contact me
 
 * I took part to some data analysis competition such as Stats Under the Stars (organized by the Italian Statistical Society) and Data Science Game (sponsored by Google and Capgemini)
 
 * I was one of the participants of the first edition of [Start Up Research](http://www.congressi.unisi.it/startupresearch/)
 
-* **Reviewing activity**: Annals of Applied Statistics, Computational Statistics and Data Analysis, Knowledge-based systems, Mathematics, Social Indicators Research, Stat, WIREs computational statistics
+* **Reviewing activity**: Annals of Applied Statistics, Computational Statistics and Data Analysis, Knowledge-based systems, Mathematics, Social Indicators Research, Stat, Statistical Analysis and Data Mining, WIREs computational statistics
 
 
 

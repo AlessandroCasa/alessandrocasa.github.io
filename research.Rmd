@@ -17,47 +17,53 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 
 ### PUBLICATIONS
 #### Preprints and Submitted Papers
-* Casa, A., O'Callaghan, T.F. & Murphy, T.B. (2021). 
+* **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2021+). <br>
 *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data*. <br>
 [(arXiv)](https://arxiv.org/pdf/2101.12499.pdf)
-* Frizzarin, M., Gormley, I.C., Berry, D.P., Murphy, T.B., Casa, A., Lynch, A. & McParland, S. (2020+). *Predicting cow milk quality traits from routinely available milk spectra using statistical machine learning methods.* <br>
-* Casa, A. & Menardi, G. (2020+). *Nonparametric semi-supervised classification with application to signal detection in High Energy Physics.* <br>
+* **Casa, A.** & Menardi, G. (2021+). <br>
+*Nonparametric semi-supervised classification with application to signal detection in High Energy Physics.* <br>
 [(arXiv)](https://arxiv.org/pdf/1809.02977.pdf)
 
 #### Articles 
-* Casa, A., Scrucca, L. & Menardi, G. (2020). *Better than the best? Answers via model ensemble in density-based clustering.* <br>
+* Frizzarin, M., Gormley, I.C., Berry, D.P., Murphy, T.B., **Casa, A.**, Lynch, A. & McParland, S. (2021). <br>
+*Predicting cow milk quality traits from routinely available milk spectra using statistical machine learning methods.* <br>
+Accepted for publication in Journal of Dairy Science. 
+* **Casa, A.**, Scrucca, L. & Menardi, G. (2020). <br>
+*Better than the best? Answers via model ensemble in density-based clustering.* <br>
 Advances in Data Analysis and Classification, 1-25. 
 [(Link)](https://link.springer.com/article/10.1007/s11634-020-00423-6)
 [(arXiv)](https://arxiv.org/abs/1911.06726)
-* Casa, A., Chacon, J.E. & Menardi, G. (2020). *Modal clustering asymptotics with applications to bandwidth selection.* <br>
+* **Casa, A.**, Chacon, J.E. & Menardi, G. (2020). <br>
+*Modal clustering asymptotics with applications to bandwidth selection.* <br>
 Electronic Journal of Statistics 14 (1), 835-856. [(Link)](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1581130993)
 [(arXiv)](https://arxiv.org/abs/1901.07300)
-* Casa, A. (2018). *On the choice of the weight function for the integrated likelihood.* <br>
+* **Casa, A.** (2018).<br>
+*On the choice of the weight function for the integrated likelihood.* <br>
 SM Journal of Biometrics & Biostatistics, 3(3), 1033.
 [(Link)](https://www.jsmcentral.org/sm-biometrics-biostatistics/fulltext_smjbb-v3-1033.pdf)
 
 #### Book Chapters 
-* Cabassi A., Casa, A., Farcomeni, A., Fontana, M. & Russo, M. (2018). 
+* Cabassi A., **Casa, A.**, Farcomeni, A., Fontana, M. & Russo, M. (2018). 
 *Three testing perspectives on connectome data.* <br>
 Studies in Neural Data Science, Springer Volume ‘Proceedings in Mathematics & Statistics’, ISBN-9783030000394.
 
 #### Refereed Conference Proceedings
-* Casa, A., Chacon, J.E. & Menardi, G. (2019). *Asymptotics for bandwidth selection in nonparametric clustering.* <br>
+* **Casa, A.**, Chacon, J.E. & Menardi, G. (2019). *Asymptotics for bandwidth selection in nonparametric clustering.* <br>
 CLADAG 2019 - Book of Short Papers. ISBN: 978-88-8317-108-6
-* Casa, A. & Menardi, G. (2019). *Nonparametric Semisupervised Classification and Variable Selection for New Physics Searches.* <br> 
+* **Casa, A.** & Menardi, G. (2019). *Nonparametric Semisupervised Classification and Variable Selection for New Physics Searches.* <br> 
 EMS 2019 - Program and Book of Abstracts.
-* Pascali, G., Casa, A. & Menardi, G. (2019). *Co-clustering TripAdvisor data for personalized recommendations.* <br>
+* Pascali, G., **Casa, A.** & Menardi, G. (2019). *Co-clustering TripAdvisor data for personalized recommendations.* <br>
 Proceedings of the Conference of the Italian Statistical Society. ISBN: 978889191510.
-* Casa, A., Scrucca, L. & Menardi, G. (2018). *Averaging via stacking in model-based clustering.* <br>
+* **Casa, A.**, Scrucca, L. & Menardi, G. (2018). *Averaging via stacking in model-based clustering.* <br>
 Book of Abstracts of the 4th International Workshop on Model-Based Clustering and Classification.
-* Casa, A., Scrucca, L. & Menardi, G. (2018). *On the selection uncertainty in parametric clustering.* <br>
+* **Casa, A.**, Scrucca, L. & Menardi, G. (2018). *On the selection uncertainty in parametric clustering.* <br>
 Book of Abstracts of the European Conference on Data Analysis.
-* Casa, A., Chacon, J.E. & Menardi, G. (2018). *On the choice of an appropriate bandwidth for modal clustering.* <br>
+* **Casa, A.**, Chacon, J.E. & Menardi, G. (2018). *On the choice of an appropriate bandwidth for modal clustering.* <br>
 Proceedings of the Conference of the Italian Statistical Society. ISBN: 9788891910233.
-* Casa, A., Chacon, J.E. & Menardi, G. (2018). *Clustering-oriented selection of the amount of smoothing in kernel density estimation.* <br>
+* **Casa, A.**, Chacon, J.E. & Menardi, G. (2018). *Clustering-oriented selection of the amount of smoothing in kernel density estimation.* <br>
 Book of Abstracts ISNPS 2018. ISBN: 978-88-61970-00-7.
-* Casa, A. & Menardi, G. (2017). *Signal detection in high energy physics via a semisupervised nonparametric approach.* <br>
+* **Casa, A.** & Menardi, G. (2017). *Signal detection in high energy physics via a semisupervised nonparametric approach.* <br>
 Proceedings of the Conference of the Italian Statistical Society. ISBN: 978-88-6453-521-0.
-* Casa, A. & Menardi, G. (2017). *Nonparametric semi-supervised classification with application to signal detection in high energy physics.* <br> Book of Abstracts of the International Federation of Classification Societies (IFCS).
+* **Casa, A.** & Menardi, G. (2017). *Nonparametric semi-supervised classification with application to signal detection in high energy physics.* <br> Book of Abstracts of the International Federation of Classification Societies (IFCS).
 
 
