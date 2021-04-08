@@ -17,6 +17,9 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 
 ### PUBLICATIONS
 #### Preprints and Submitted Papers
+* **Casa, A.**, Bouveyron, C., Erosheva, E. & Menardi, G. (2021+). <br>
+*Co-clustering of time-dependent data via Shape Invariant Model*. <br>
+[(arXiv)](https://arxiv.org/pdf/2104.03083.pdf)
 * **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2021+). <br>
 *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data*. <br>
 [(arXiv)](https://arxiv.org/pdf/2101.12499.pdf)
