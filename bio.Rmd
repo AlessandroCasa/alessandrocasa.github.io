@@ -30,7 +30,7 @@ My full CV is available [here](documents/cv.pdf)
 &nbsp;
 
 ### OTHER ACTIVITIES
-* Academic Lead of the Organizing Committee of the inaugural **International Workshop on Spectroscopy and Chemometrics** which will be held online on the 28th and the 29th of April 2021. For information and registration click on the following [link](https://www.eventbrite.ie/e/international-workshop-on-spectroscopy-and-chemometrics-tickets-135663217335)
+* Academic Lead of the Organizing Committee of the inaugural **International Workshop on Spectroscopy and Chemometrics** which gathered together several experts working with spectroscopic data + Poster session + Data Analysis competition (28th and 29th of April 2021). 
 
 * Co-organizer of the monthly IR-group meeting gathering all the VistaMilk researchers (but not limited to) working with infrared technologies. If you would like to attend to our meetings and to join our mailing list, feel free to contact me
 
@@ -38,7 +38,7 @@ My full CV is available [here](documents/cv.pdf)
 
 * I was one of the participants of the first edition of [Start Up Research](http://www.congressi.unisi.it/startupresearch/)
 
-* **Reviewing activity**: Annals of Applied Statistics, Computational Statistics and Data Analysis, Knowledge-based systems, Mathematics, Social Indicators Research, Stat, Statistical Analysis and Data Mining, WIREs computational statistics
+* **Reviewing activity**: Annals of Applied Statistics, Computational Statistics and Data Analysis, Journal of Dairy Science, Knowledge-based systems, Mathematics, Social Indicators Research, Stat, Statistical Analysis and Data Mining, Statistics and Computing, WIREs computational statistics
 
 
 

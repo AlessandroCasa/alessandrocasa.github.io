@@ -29,11 +29,12 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 
 #### Articles 
 * **Casa, A.**, Fop, M. & Murphy, T.B. (2021) <br>
-*A discussion on: "Centered partition processes: informative priors for clustering" by Paganin, S., Herring, A.H., Olshan, A.F. & Dunson, D.B.* <br>
-Bayesian Analysis
+*Contributed Discussion on "Centered partition processes: informative priors for clustering" by Paganin, S., Herring, A.H., Olshan, A.F. & Dunson, D.B.* <br>
+Bayesian Analysis, 16(1), 301-370.
+[(Link)](https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/Centered-Partition-Processes-Informative-Priors-for-Clustering-with-Discussion/10.1214/20-BA1197.full#abstract)
 * Frizzarin, M., Gormley, I.C., Berry, D.P., Murphy, T.B., **Casa, A.**, Lynch, A. & McParland, S. (2021). <br>
 *Predicting cow milk quality traits from routinely available milk spectra using statistical machine learning methods.* <br>
-Accepted for publication in Journal of Dairy Science. 
+Journal of Dairy Science (In press). [(Link)](https://doi.org/10.3168/jds.2020-19576) 
 * **Casa, A.**, Scrucca, L. & Menardi, G. (2020). <br>
 *Better than the best? Answers via model ensemble in density-based clustering.* <br>
 Advances in Data Analysis and Classification, 1-25. 
