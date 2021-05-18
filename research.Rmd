@@ -17,6 +17,12 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 
 ### PUBLICATIONS
 #### Preprints and Submitted Papers
+* **Casa, A.**, Cappozzo, A. & Fop, M. (2021+) <br>
+*Group-wise shrinkage for multiclass Gaussian Graphical Models*. <br>
+[(arXiv)](https://arxiv.org/pdf/2105.07935.pdf)
+* Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., **Casa, A.**, [...], Vischia, P. & Weiler, A. (2021+) <br>
+*Advanced multi-variate analysis methods for new physics searches at the Large Hadron Collider*. <br>
+[(arXiv)](https://arxiv.org/pdf/2105.07530.pdf)
 * **Casa, A.**, Bouveyron, C., Erosheva, E. & Menardi, G. (2021+). <br>
 *Co-clustering of time-dependent data via Shape Invariant Model*. <br>
 [(arXiv)](https://arxiv.org/pdf/2104.03083.pdf)
