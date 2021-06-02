@@ -17,6 +17,8 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 
 ### PUBLICATIONS
 #### Preprints and Submitted Papers
+* Frizzarin, M., O'Callaghan, T.F., Murphy, T.B., Hennessy, D. & **Casa, A.** (2021+) <br>
+*Application of machine learning methods to milk mid infrared spectra for discrimination of cows milk from pasture or TMR diets*
 * **Casa, A.**, Cappozzo, A. & Fop, M. (2021+) <br>
 *Group-wise shrinkage for multiclass Gaussian Graphical Models*. <br>
 [(arXiv)](https://arxiv.org/pdf/2105.07935.pdf)
