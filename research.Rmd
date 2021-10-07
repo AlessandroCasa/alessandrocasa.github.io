@@ -17,9 +17,6 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 
 ### PUBLICATIONS
 #### Preprints and Submitted Papers
-* Frizzarin, M., Bevilacqua, A., [...], Stefanucci, M. & **Casa, A.** (2021+) <br>
-*Mid infrared spectroscopy and milk quality traits: a data analysis competition at the “International Workshop on Spectroscopy and Chemometrics 2021”* <br>
-[(arXiv)](https://arxiv.org/pdf/2107.02906.pdf)
 * **Casa, A.**, Cappozzo, A. & Fop, M. (2021+) <br>
 *Group-wise shrinkage for multiclass Gaussian Graphical Models*. <br>
 [(arXiv)](https://arxiv.org/pdf/2105.07935.pdf)
@@ -31,12 +28,15 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 [(arXiv)](https://arxiv.org/pdf/2101.12499.pdf)
 
 #### Articles 
+* Frizzarin, M., Bevilacqua, A., [...], Stefanucci, M. & **Casa, A.** (2021) <br>
+*Mid infrared spectroscopy and milk quality traits: a data analysis competition at the “International Workshop on Spectroscopy and Chemometrics 2021”* <br>
+Chemometrics and Intelligent Laboratory Systems (In press) [(arXiv)](https://arxiv.org/pdf/2107.02906.pdf)
 * **Casa, A.**, Bouveyron, C., Erosheva, E. & Menardi, G. (2021). <br>
 *Co-clustering of time-dependent data via the Shape Invariant Model*. <br>
-Accepted for publication in Journal of Classification.
+Journal of Classification [(Link)](https://link.springer.com/article/10.1007%2Fs00357-021-09402-8)
 * Frizzarin, M., O'Callaghan, T.F., Murphy, T.B., Hennessy, D. & **Casa, A.** (2021). <br>
 *Application of machine learning methods to milk mid-infrared spectra for discrimination of cows milk from pasture or total mixed ration diets*. <br>
-Accepted for publication in Journal of Dairy Science.
+Journal of Dairy Science [(Link)](https://www.sciencedirect.com/science/article/pii/S0022030221009097?dgcid=author).
 * **Casa, A.** & Menardi, G. (2021). <br> 
 *Nonparametric semi-supervised classification with application to signal detection in high energy physics.* <br>
 Statistical Methods & Applications [(Link)](https://doi.org/10.1007/s10260-021-00585-3)
@@ -47,7 +47,7 @@ Bayesian Analysis, 16(1), 301-370.
 * Frizzarin, M., Gormley, I.C., Berry, D.P., Murphy, T.B., **Casa, A.**, Lynch, A. & McParland, S. (2021). <br>
 *Predicting cow milk quality traits from routinely available milk spectra using statistical machine learning methods.* <br>
 Journal of Dairy Science, 104(7), 7438–7447. [(Link)](https://doi.org/10.3168/jds.2020-19576) 
-* **Casa, A.**, Scrucca, L. & Menardi, G. (2020). <br>
+* **Casa, A.**, Scrucca, L. & Menardi, G. (2021). <br>
 *Better than the best? Answers via model ensemble in density-based clustering.* <br>
 Advances in Data Analysis and Classification, 15, 599-623. 
 [(Link)](https://link.springer.com/article/10.1007/s11634-020-00423-6)
