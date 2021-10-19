@@ -38,7 +38,7 @@ My full CV is available [here](documents/cv.pdf)
 
 * I was one of the participants of the first edition of [Start Up Research](http://www.congressi.unisi.it/startupresearch/)
 
-* **Reviewing activity**: Annals of Applied Statistics, Computational Statistics and Data Analysis, Journal of Dairy Science, Knowledge-based systems, Mathematics, Scientific Reports, Social Indicators Research, Stat, Statistical Analysis and Data Mining, Statistics and Computing, WIREs computational statistics
+* **Reviewing activity**: Annals of Applied Statistics, Computational Statistics and Data Analysis, Journal of Computational and Graphical Statistics, Journal of Dairy Science, Knowledge-based systems, Mathematics, Scientific Reports, Social Indicators Research, Stat, Statistical Analysis and Data Mining, Statistics and Computing, WIREs computational statistics
 
 
 
