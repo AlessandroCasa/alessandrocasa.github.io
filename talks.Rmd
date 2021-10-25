@@ -3,6 +3,10 @@ title: 'TALKS'
 output: html_document
 ---
 
+* *Sparse matrix-variate model-based clustering via penalized estimation*
+([slides](documents/wg_mbc_21.pdf), October 2021) <br>
+Working Group on Model-Based Clustering, Athens [short presentation]
+
 * *Model-based clustering with sparse matrix mixture models*
 ([slides](documents/cladag_2021.pdf), September 2021) <br>
 CLADAG - Classification and Data Analysis Group, online [contributed]

@@ -20,14 +20,15 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 * **Casa, A.**, Cappozzo, A. & Fop, M. (2021+) <br>
 *Group-wise shrinkage for multiclass Gaussian Graphical Models*. <br>
 [(arXiv)](https://arxiv.org/pdf/2105.07935.pdf)
-* Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., **Casa, A.**, [...], Vischia, P. & Weiler, A. (2021+) <br>
-*Advanced multi-variate analysis methods for new physics searches at the Large Hadron Collider*. <br>
-[(arXiv)](https://arxiv.org/pdf/2105.07530.pdf)
 * **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2021+). <br>
 *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data*. <br>
 [(arXiv)](https://arxiv.org/pdf/2101.12499.pdf)
 
 #### Articles 
+* Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., **Casa, A.**, [...], Vischia, P. & Weiler, A. (2021+) <br>
+*Advanced multi-variate analysis methods for new physics searches at the Large Hadron Collider*. <br>
+Reviews in Physics (In press)
+[(arXiv)](https://arxiv.org/pdf/2105.07530.pdf)
 * Frizzarin, M., Bevilacqua, A., [...], Stefanucci, M. & **Casa, A.** (2021) <br>
 *Mid infrared spectroscopy and milk quality traits: a data analysis competition at the “International Workshop on Spectroscopy and Chemometrics 2021”* <br>
 Chemometrics and Intelligent Laboratory Systems (In press) [(arXiv)](https://arxiv.org/pdf/2107.02906.pdf)
