@@ -18,14 +18,17 @@ Currently I am working under the supervision of [Prof. Brendan Murphy](https://p
 ### PUBLICATIONS
 #### Preprints and Submitted Papers
 * **Casa, A.**, Cappozzo, A. & Fop, M. (2021+) <br>
-*Group-wise shrinkage for multiclass Gaussian Graphical Models*. <br>
+*Group-wise shrinkage estimation in penalized model-based clustering*. <br>
 [(arXiv)](https://arxiv.org/pdf/2105.07935.pdf)
 * **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2021+). <br>
 *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data*. <br>
 [(arXiv)](https://arxiv.org/pdf/2101.12499.pdf)
 
 #### Articles 
-* Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., **Casa, A.**, [...], Vischia, P. & Weiler, A. (2021+) <br>
+* Frizzarin, M., Gormley, I.C., **Casa, A.** & McParland, S. (2021) <br>
+*Selecting milk spectra to develop equations to predict milk technological traits*. <br>
+Foods, 10(12), 3084.
+* Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., **Casa, A.**, [...], Vischia, P. & Weiler, A. (2021) <br>
 *Advanced multi-variate analysis methods for new physics searches at the Large Hadron Collider*. <br>
 Reviews in Physics (In press)
 [(arXiv)](https://arxiv.org/pdf/2105.07530.pdf)
