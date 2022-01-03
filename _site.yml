@@ -8,9 +8,9 @@ navbar:
   title: "Alessandro Casa"
   href: index.html
   right:
-    - text: "Bio"
+    - text: "About"
       href: bio.html
-    - text: "Research"
+    - text: "Publications"
       href: research.html
     - text: "Talks"
       href: talks.html  
@@ -18,6 +18,4 @@ navbar:
       href: teaching.html
     - text: "Contact"
       href: contact.html
-    - text: "Other stuff"
-      href: about.html  
 output_dir: "."

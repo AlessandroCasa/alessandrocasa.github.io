@@ -1,7 +1,11 @@
 ---
-title: 'TALKS'
+title: 'Talks'
 output: html_document
 ---
+
+* *Model-based co-clustering of multivariate time-dependent data*
+([slides](documents/ercim_2021.pdf), December 2021) <br>
+14th International Conference of the ERCIM WG - CMStatistics 2021 [invited]
 
 * *Sparse matrix-variate model-based clustering via penalized estimation*
 ([slides](documents/wg_mbc_21.pdf), October 2021) <br>
