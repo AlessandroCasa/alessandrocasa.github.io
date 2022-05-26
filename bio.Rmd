@@ -6,13 +6,13 @@ I am an Assistant Professor in Statistics (RTDa) at the Faculty of Economics and
 Previously, I worked as Postdoctoral Researcher at the University College Dublin, under the supervision of Prof. Brendan Murphy and I have been affiliated both with the Insight SFI Research Centre for Data Analytics and with Vistamilk SFI Research Centre.
 &nbsp; 
 
-I am a member of the organizing committee of the *Spectroscopy Group* in Vistamilk. Therefore, I am the co-organizer of the spectroscopy monthly seminars and of the annual *International Workshop on Spectroscopy and Chemometrics*. 
+I am a member of the organizing committee of spectroscopy monthly seminars in Vistamilk and of the annual *International Workshop on Spectroscopy and Chemometrics*. 
 &nbsp; 
 
 My full CV is available [here](documents/cv.pdf)
 
 ### Research 
-My research focuses on the development of flexible statistical methodologies to model high-dimensional and complex structured data, arising from different applied frameworks. More specifically, I am particularly interested on latent variable models, on the density-based formulation of the clustering problem and on the challenges arising when dealing with spectroscopic data. <br>
+My research focuses on the development of flexible statistical methodologies to model high-dimensional and complex structured data, arising from different applied frameworks. More specifically, I am particularly interested on latent variable models, on the density-based formulation of the clustering problem and on the challenges arising when dealing with spectroscopic data. Recently, I started working on inferential problems arising in high-dimensional settings as for example when dealing with spatio-temporal data. <br>
 My main research interests are: 
 
 * Mixture models and model-based clustering <br>
@@ -20,6 +20,7 @@ My main research interests are:
 * Graphical models <br>
 * Variable selection and dimensionality reduction <br>
 * Latent variable models <br>
+* Computational statistics <br> 
 * Chemometrics <br>
 
 ### Education 

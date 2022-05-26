@@ -3,6 +3,10 @@ title: 'Talks'
 output: html_document
 ---
 
+* *Co-clustering of time-dependent data via the Shape Invariant Model*
+([slides](documents/TCD_seminar.pdf), February 2022) <br>
+Trinity College Dublin Statistics Seminar Series [seminar]
+
 * *Model-based co-clustering of multivariate time-dependent data*
 ([slides](documents/ercim_2021.pdf), December 2021) <br>
 14th International Conference of the ERCIM WG - CMStatistics 2021 [invited]
@@ -23,10 +27,10 @@ CLADAG - Classification and Data Analysis Group, online [contributed]
 41st Conference on Applied Statistics in Ireland, online [contributed]
 
 * *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data* ([slides](documents/wg_ucd_2021.pdf), February 2021) <br>
-UCD Working Group on Statistical Learning, online [invited seminar]
+UCD Working Group on Statistical Learning, online [seminar]
 
 * *Better than the best? Blending models and approaches in density-based clustering* ([slides](documents/wg_ucd.pdf), February 2020) <br>
-UCD Working Group on Statistical Learning, Dublin [invited seminar]
+UCD Working Group on Statistical Learning, Dublin [seminar]
 
 * *Asymptotics for bandwidth selection in nonparametric clustering* ([slides](documents/cladag19.pdf), September 2019) <br> 
 CLADAG - Classification and Data Analysis Group, Cassino [invited]
