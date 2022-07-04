@@ -27,33 +27,25 @@ editor_options:
     ([slides](documents/cladag_2021.pdf), September 2021) <br> CLADAG -
     Classification and Data Analysis Group, online [contributed]
 
--   *Parsimonious modelling of spectroscopy data via a Bayesian latent
-    variables approach* ([slides](documents/SIS_2021.pdf), June 2021)
+-   *Parsimonious modelling of spectroscopy data via a Bayesian latent      variables approach* ([slides](documents/SIS_2021.pdf), June 2021)
     <br> 50th Scientific Meeting of the Italian Statistical Society,
     online [contributed]
 
--   *Parsimonious Bayesian Factor Analysis with application to milk
-    spectroscopy data* ([slides](documents/CASI_2021.pdf), May 2021)
+-   *Parsimonious Bayesian Factor Analysis with application to milk spectroscopy data* ([slides](documents/CASI_2021.pdf), May 2021)
     <br> 41st Conference on Applied Statistics in Ireland, online
     [contributed]
 
--   *Parsimonious Bayesian Factor Analysis for modelling latent
-    structures in spectroscopy data*
+-   *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data*
     ([slides](documents/wg_ucd_2021.pdf), February 2021) <br> UCD
     Working Group on Statistical Learning, online [seminar]
 
--   *Better than the best? Blending models and approaches in
-    density-based clustering* ([slides](documents/wg_ucd.pdf), February
-    2020) <br> UCD Working Group on Statistical Learning, Dublin
-    [seminar]
+-   *Better than the best? Blending models and approaches in density-based clustering* ([slides](documents/wg_ucd.pdf), February 2020) <br> UCD Working Group on Statistical Learning, Dublin [seminar]
 
 -   *Asymptotics for bandwidth selection in nonparametric clustering*
     ([slides](documents/cladag19.pdf), September 2019) <br> CLADAG -
     Classification and Data Analysis Group, Cassino [invited]
 
--   *Nonparametric semisupervised classification and variable selection
-    for new physics searches* ([slides](documents/ems2019.pdf), July
-    2019) <br> European Meeting of Statisticians, Palermo [invited]
+-   *Nonparametric semisupervised classification and variable selection for new physics searches* ([slides](documents/ems2019.pdf), July 2019) <br> European Meeting of Statisticians, Palermo [invited]
 
 -   *Co-clustering of time-dependent data*
     ([poster](documents/poster_wg19.pdf), July 2019) <br> Working Group
