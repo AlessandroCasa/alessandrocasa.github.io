@@ -13,7 +13,8 @@
 
 <title>Publications</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -79,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -231,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -275,48 +280,141 @@ $(document).ready(function () {
 <div id="preprints-and-submitted-papers" class="section level3">
 <h3>Preprints and Submitted Papers</h3>
 <ul>
-<li><strong>Casa, A.</strong>, Cappozzo, A. &amp; Fop, M. (2021+) <br> <em>Group-wise shrinkage estimation in penalized model-based clustering</em>. <br> <a href="https://arxiv.org/pdf/2105.07935.pdf">(arXiv)</a></li>
+<li><strong>Casa, A.</strong>, Cappozzo, A. &amp; Fop, M. (2021+) <br>
+<em>Group-wise shrinkage estimation in penalized model-based
+clustering</em>. <br> <a
+href="https://arxiv.org/pdf/2105.07935.pdf">(arXiv)</a></li>
 </ul>
 </div>
 <div id="articles" class="section level3">
 <h3>Articles</h3>
 <ul>
-<li><strong>Casa, A.</strong>, O’Callaghan, T.F. &amp; Murphy, T.B. (2021+). <br> <em>Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data</em>. <br> Annals of Applied Statistics (just accepted) <a href="https://arxiv.org/pdf/2101.12499.pdf">(arXiv)</a></li>
-<li>Frizzarin, M., Gormley, I.C., <strong>Casa, A.</strong> &amp; McParland, S. (2021) <br> <em>Selecting milk spectra to develop equations to predict milk technological traits</em>. <br> Foods, 10(12), 3084.</li>
-<li>Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., <strong>Casa, A.</strong>, […], Vischia, P. &amp; Weiler, A. (2021) <br> <em>Advanced multi-variate analysis methods for new physics searches at the Large Hadron Collider</em>. <br> Reviews in Physics (In press) <a href="https://arxiv.org/pdf/2105.07530.pdf">(arXiv)</a></li>
-<li>Frizzarin, M., Bevilacqua, A., […], Stefanucci, M. &amp; <strong>Casa, A.</strong> (2021) <br> <em>Mid infrared spectroscopy and milk quality traits: a data analysis competition at the “International Workshop on Spectroscopy and Chemometrics 2021”</em> <br> Chemometrics and Intelligent Laboratory Systems, 219, 104442 <a href="https://www.sciencedirect.com/science/article/pii/S0169743921002100">(Link)</a></li>
-<li><strong>Casa, A.</strong>, Bouveyron, C., Erosheva, E. &amp; Menardi, G. (2021). <br> <em>Co-clustering of time-dependent data via the Shape Invariant Model</em>. <br> Journal of Classification, 38, 626-649 <a href="https://link.springer.com/article/10.1007%2Fs00357-021-09402-8">(Link)</a></li>
-<li>Frizzarin, M., O’Callaghan, T.F., Murphy, T.B., Hennessy, D. &amp; <strong>Casa, A.</strong> (2021). <br> <em>Application of machine learning methods to milk mid-infrared spectra for discrimination of cows milk from pasture or total mixed ration diets</em>. <br> Journal of Dairy Science, 104(12), 12394-12402 <a href="https://www.sciencedirect.com/science/article/pii/S0022030221009097?dgcid=author">(Link)</a>.</li>
-<li><strong>Casa, A.</strong> &amp; Menardi, G. (2021). <br> <em>Nonparametric semi-supervised classification with application to signal detection in high energy physics.</em> <br> Statistical Methods &amp; Applications <a href="https://doi.org/10.1007/s10260-021-00585-3">(Link)</a></li>
-<li><strong>Casa, A.</strong>, Fop, M. &amp; Murphy, T.B. (2021). <br> <em>Contributed Discussion on “Centered partition processes: informative priors for clustering” by Paganin, S., Herring, A.H., Olshan, A.F. &amp; Dunson, D.B.</em> <br> Bayesian Analysis, 16(1), 301-370. <a href="https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/Centered-Partition-Processes-Informative-Priors-for-Clustering-with-Discussion/10.1214/20-BA1197.full#abstract">(Link)</a></li>
-<li>Frizzarin, M., Gormley, I.C., Berry, D.P., Murphy, T.B., <strong>Casa, A.</strong>, Lynch, A. &amp; McParland, S. (2021). <br> <em>Predicting cow milk quality traits from routinely available milk spectra using statistical machine learning methods.</em> <br> Journal of Dairy Science, 104(7), 7438–7447. <a href="https://doi.org/10.3168/jds.2020-19576">(Link)</a></li>
-<li><strong>Casa, A.</strong>, Scrucca, L. &amp; Menardi, G. (2021). <br> <em>Better than the best? Answers via model ensemble in density-based clustering.</em> <br> Advances in Data Analysis and Classification, 15, 599-623. <a href="https://link.springer.com/article/10.1007/s11634-020-00423-6">(Link)</a></li>
-<li><strong>Casa, A.</strong>, Chacon, J.E. &amp; Menardi, G. (2020). <br> <em>Modal clustering asymptotics with applications to bandwidth selection.</em> <br> Electronic Journal of Statistics, 14(1), 835-856. <a href="https://projecteuclid.org/download/pdfview_1/euclid.ejs/1581130993">(Link)</a></li>
-<li><strong>Casa, A.</strong> (2018).<br> <em>On the choice of the weight function for the integrated likelihood.</em> <br> SM Journal of Biometrics &amp; Biostatistics, 3(3), 1033. <a href="https://www.jsmcentral.org/sm-biometrics-biostatistics/fulltext_smjbb-v3-1033.pdf">(Link)</a></li>
+<li><strong>Casa, A.</strong>, O’Callaghan, T.F. &amp; Murphy, T.B.
+(2021+). <br> <em>Parsimonious Bayesian Factor Analysis for modelling
+latent structures in spectroscopy data</em>. <br> Annals of Applied
+Statistics (just accepted) <a
+href="https://arxiv.org/pdf/2101.12499.pdf">(arXiv)</a></li>
+<li>Frizzarin, M., Gormley, I.C., <strong>Casa, A.</strong> &amp;
+McParland, S. (2021) <br> <em>Selecting milk spectra to develop
+equations to predict milk technological traits</em>. <br> Foods, 10(12),
+3084.</li>
+<li>Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., <strong>Casa,
+A.</strong>, […], Vischia, P. &amp; Weiler, A. (2021) <br> <em>Advanced
+multi-variate analysis methods for new physics searches at the Large
+Hadron Collider</em>. <br> Reviews in Physics (In press) <a
+href="https://arxiv.org/pdf/2105.07530.pdf">(arXiv)</a></li>
+<li>Frizzarin, M., Bevilacqua, A., […], Stefanucci, M. &amp;
+<strong>Casa, A.</strong> (2021) <br> <em>Mid infrared spectroscopy and
+milk quality traits: a data analysis competition at the “International
+Workshop on Spectroscopy and Chemometrics 2021”</em> <br> Chemometrics
+and Intelligent Laboratory Systems, 219, 104442 <a
+href="https://www.sciencedirect.com/science/article/pii/S0169743921002100">(Link)</a></li>
+<li><strong>Casa, A.</strong>, Bouveyron, C., Erosheva, E. &amp;
+Menardi, G. (2021). <br> <em>Co-clustering of time-dependent data via
+the Shape Invariant Model</em>. <br> Journal of Classification, 38,
+626-649 <a
+href="https://link.springer.com/article/10.1007%2Fs00357-021-09402-8">(Link)</a></li>
+<li>Frizzarin, M., O’Callaghan, T.F., Murphy, T.B., Hennessy, D. &amp;
+<strong>Casa, A.</strong> (2021). <br> <em>Application of machine
+learning methods to milk mid-infrared spectra for discrimination of cows
+milk from pasture or total mixed ration diets</em>. <br> Journal of
+Dairy Science, 104(12), 12394-12402 <a
+href="https://www.sciencedirect.com/science/article/pii/S0022030221009097?dgcid=author">(Link)</a>.</li>
+<li><strong>Casa, A.</strong> &amp; Menardi, G. (2021). <br>
+<em>Nonparametric semi-supervised classification with application to
+signal detection in high energy physics.</em> <br> Statistical Methods
+&amp; Applications <a
+href="https://doi.org/10.1007/s10260-021-00585-3">(Link)</a></li>
+<li><strong>Casa, A.</strong>, Fop, M. &amp; Murphy, T.B. (2021). <br>
+<em>Contributed Discussion on “Centered partition processes: informative
+priors for clustering” by Paganin, S., Herring, A.H., Olshan, A.F. &amp;
+Dunson, D.B.</em> <br> Bayesian Analysis, 16(1), 301-370. <a
+href="https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/Centered-Partition-Processes-Informative-Priors-for-Clustering-with-Discussion/10.1214/20-BA1197.full#abstract">(Link)</a></li>
+<li>Frizzarin, M., Gormley, I.C., Berry, D.P., Murphy, T.B.,
+<strong>Casa, A.</strong>, Lynch, A. &amp; McParland, S. (2021). <br>
+<em>Predicting cow milk quality traits from routinely available milk
+spectra using statistical machine learning methods.</em> <br> Journal of
+Dairy Science, 104(7), 7438–7447. <a
+href="https://doi.org/10.3168/jds.2020-19576">(Link)</a></li>
+<li><strong>Casa, A.</strong>, Scrucca, L. &amp; Menardi, G. (2021).
+<br> <em>Better than the best? Answers via model ensemble in
+density-based clustering.</em> <br> Advances in Data Analysis and
+Classification, 15, 599-623. <a
+href="https://link.springer.com/article/10.1007/s11634-020-00423-6">(Link)</a></li>
+<li><strong>Casa, A.</strong>, Chacon, J.E. &amp; Menardi, G. (2020).
+<br> <em>Modal clustering asymptotics with applications to bandwidth
+selection.</em> <br> Electronic Journal of Statistics, 14(1), 835-856.
+<a
+href="https://projecteuclid.org/download/pdfview_1/euclid.ejs/1581130993">(Link)</a></li>
+<li><strong>Casa, A.</strong> (2018).<br> <em>On the choice of the
+weight function for the integrated likelihood.</em> <br> SM Journal of
+Biometrics &amp; Biostatistics, 3(3), 1033. <a
+href="https://www.jsmcentral.org/sm-biometrics-biostatistics/fulltext_smjbb-v3-1033.pdf">(Link)</a></li>
 </ul>
 </div>
 <div id="book-chapters" class="section level3">
 <h3>Book Chapters</h3>
 <ul>
-<li>Cabassi A., <strong>Casa, A.</strong>, Farcomeni, A., Fontana, M. &amp; Russo, M. (2018). <br> <em>Three testing perspectives on connectome data.</em> <br> Studies in Neural Data Science, Springer Volume ‘Proceedings in Mathematics &amp; Statistics’, ISBN-9783030000394.</li>
+<li>Cabassi A., <strong>Casa, A.</strong>, Farcomeni, A., Fontana, M.
+&amp; Russo, M. (2018). <br> <em>Three testing perspectives on
+connectome data.</em> <br> Studies in Neural Data Science, Springer
+Volume ‘Proceedings in Mathematics &amp; Statistics’,
+ISBN-9783030000394.</li>
 </ul>
 </div>
 <div id="refereed-conference-proceedings" class="section level3">
 <h3>Refereed Conference Proceedings</h3>
 <ul>
-<li><strong>Casa, A.</strong>, Bouveyron, C., Erosheva, E. &amp; Menardi, G. (2021) <br> <em>Model-based co-clustering of multivariate time-dependent data</em> <br> Book of Abstract, CFE-CMStatistics 2021. ISBN 978-9925-7812-5-6</li>
-<li>Cappozzo, A., <strong>Casa, A.</strong> &amp; Fop, M. (2021). <br> <em>Model-based clustering with sparse matrix mixture models</em>. <br> CLADAG 2021 - Book of Abstract and Short Papers. DOI: 10.36253/978-88-5518-340-6</li>
-<li>Cappozzo, A., <strong>Casa, A.</strong> &amp; Fop, M. (2021). <br> <em>Penalized model-based clustering for three-way data structures.</em> <br> Book of short papers - SIS 2021. ISBN 978-88-9192-736-1</li>
-<li><strong>Casa, A.</strong>, O’Callaghan, T.F. &amp; Murphy, T.B. (2021). <br> <em>Parsimonious modelling of spectroscopy data via a Bayesian latent variables approach.</em> <br> Book of short papers - SIS 2021. ISBN 978-88-9192-736-1</li>
-<li><strong>Casa, A.</strong>, Chacon, J.E. &amp; Menardi, G. (2019).<br> <em>Asymptotics for bandwidth selection in nonparametric clustering.</em> <br> CLADAG 2019 - Book of Short Papers. ISBN: 978-88-8317-108-6</li>
-<li><strong>Casa, A.</strong> &amp; Menardi, G. (2019).<br> <em>Nonparametric Semisupervised Classification and Variable Selection for New Physics Searches.</em> <br> EMS 2019 - Program and Book of Abstracts.</li>
-<li>Pascali, G., <strong>Casa, A.</strong> &amp; Menardi, G. (2019). <br> <em>Co-clustering TripAdvisor data for personalized recommendations.</em> <br> Proceedings of the Conference of the Italian Statistical Society. ISBN: 978-88-9191-51-0</li>
-<li><strong>Casa, A.</strong>, Scrucca, L. &amp; Menardi, G. (2018).<br> <em>Averaging via stacking in model-based clustering.</em> <br> Book of Abstracts of the 4th International Workshop on Model-Based Clustering and Classification.</li>
-<li><strong>Casa, A.</strong>, Scrucca, L. &amp; Menardi, G. (2018).<br> <em>On the selection uncertainty in parametric clustering.</em> <br> Book of Abstracts of the European Conference on Data Analysis.</li>
-<li><strong>Casa, A.</strong>, Chacon, J.E. &amp; Menardi, G. (2018). <br> <em>On the choice of an appropriate bandwidth for modal clustering.</em> <br> Proceedings of the Conference of the Italian Statistical Society. ISBN: 978-88-9191-023-3.</li>
-<li><strong>Casa, A.</strong>, Chacon, J.E. &amp; Menardi, G. (2018).<br> <em>Clustering-oriented selection of the amount of smoothing in kernel density estimation.</em> <br> Book of Abstracts ISNPS 2018. ISBN: 978-88-61970-00-7.</li>
-<li><strong>Casa, A.</strong> &amp; Menardi, G. (2017).<br> <em>Signal detection in high energy physics via a semisupervised nonparametric approach.</em> <br> Proceedings of the Conference of the Italian Statistical Society. ISBN: 978-88-6453-521-0.</li>
-<li><strong>Casa, A.</strong> &amp; Menardi, G. (2017). <br> <em>Nonparametric semi-supervised classification with application to signal detection in high energy physics.</em> <br> Book of Abstracts of the International Federation of Classification Societies (IFCS).</li>
+<li><strong>Casa, A.</strong>, Bouveyron, C., Erosheva, E. &amp;
+Menardi, G. (2021) <br> <em>Model-based co-clustering of multivariate
+time-dependent data</em> <br> Book of Abstract, CFE-CMStatistics 2021.
+ISBN 978-9925-7812-5-6</li>
+<li>Cappozzo, A., <strong>Casa, A.</strong> &amp; Fop, M. (2021). <br>
+<em>Model-based clustering with sparse matrix mixture models</em>. <br>
+CLADAG 2021 - Book of Abstract and Short Papers. DOI:
+10.36253/978-88-5518-340-6</li>
+<li>Cappozzo, A., <strong>Casa, A.</strong> &amp; Fop, M. (2021). <br>
+<em>Penalized model-based clustering for three-way data structures.</em>
+<br> Book of short papers - SIS 2021. ISBN 978-88-9192-736-1</li>
+<li><strong>Casa, A.</strong>, O’Callaghan, T.F. &amp; Murphy, T.B.
+(2021). <br> <em>Parsimonious modelling of spectroscopy data via a
+Bayesian latent variables approach.</em> <br> Book of short papers - SIS
+2021. ISBN 978-88-9192-736-1</li>
+<li><strong>Casa, A.</strong>, Chacon, J.E. &amp; Menardi, G.
+(2019).<br> <em>Asymptotics for bandwidth selection in nonparametric
+clustering.</em> <br> CLADAG 2019 - Book of Short Papers. ISBN:
+978-88-8317-108-6</li>
+<li><strong>Casa, A.</strong> &amp; Menardi, G. (2019).<br>
+<em>Nonparametric Semisupervised Classification and Variable Selection
+for New Physics Searches.</em> <br> EMS 2019 - Program and Book of
+Abstracts.</li>
+<li>Pascali, G., <strong>Casa, A.</strong> &amp; Menardi, G. (2019).
+<br> <em>Co-clustering TripAdvisor data for personalized
+recommendations.</em> <br> Proceedings of the Conference of the Italian
+Statistical Society. ISBN: 978-88-9191-51-0</li>
+<li><strong>Casa, A.</strong>, Scrucca, L. &amp; Menardi, G. (2018).<br>
+<em>Averaging via stacking in model-based clustering.</em> <br> Book of
+Abstracts of the 4th International Workshop on Model-Based Clustering
+and Classification.</li>
+<li><strong>Casa, A.</strong>, Scrucca, L. &amp; Menardi, G. (2018).<br>
+<em>On the selection uncertainty in parametric clustering.</em> <br>
+Book of Abstracts of the European Conference on Data Analysis.</li>
+<li><strong>Casa, A.</strong>, Chacon, J.E. &amp; Menardi, G. (2018).
+<br> <em>On the choice of an appropriate bandwidth for modal
+clustering.</em> <br> Proceedings of the Conference of the Italian
+Statistical Society. ISBN: 978-88-9191-023-3.</li>
+<li><strong>Casa, A.</strong>, Chacon, J.E. &amp; Menardi, G.
+(2018).<br> <em>Clustering-oriented selection of the amount of smoothing
+in kernel density estimation.</em> <br> Book of Abstracts ISNPS 2018.
+ISBN: 978-88-61970-00-7.</li>
+<li><strong>Casa, A.</strong> &amp; Menardi, G. (2017).<br> <em>Signal
+detection in high energy physics via a semisupervised nonparametric
+approach.</em> <br> Proceedings of the Conference of the Italian
+Statistical Society. ISBN: 978-88-6453-521-0.</li>
+<li><strong>Casa, A.</strong> &amp; Menardi, G. (2017). <br>
+<em>Nonparametric semi-supervised classification with application to
+signal detection in high energy physics.</em> <br> Book of Abstracts of
+the International Federation of Classification Societies (IFCS).</li>
 </ul>
 </div>
 

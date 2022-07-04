@@ -13,7 +13,8 @@
 
 <title>About</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -79,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -231,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -272,12 +277,27 @@ $(document).ready(function () {
 </div>
 
 
-<p>I am an Assistant Professor in Statistics (RTDa) at the Faculty of Economics and Management at the Free University of Bozen-Bolzano. <br> Previously, I worked as Postdoctoral Researcher at the University College Dublin, under the supervision of Prof. Brendan Murphy and I have been affiliated both with the Insight SFI Research Centre for Data Analytics and with Vistamilk SFI Research Centre.  </p>
-<p>I am a member of the organizing committee of spectroscopy monthly seminars in Vistamilk and of the annual <em>International Workshop on Spectroscopy and Chemometrics</em>.  </p>
+<p>I am an Assistant Professor in Statistics (RTDa) at the Faculty of
+Economics and Management at the Free University of Bozen-Bolzano. <br>
+Previously, I worked as Postdoctoral Researcher at the University
+College Dublin, under the supervision of Prof. Brendan Murphy and I have
+been affiliated both with the Insight SFI Research Centre for Data
+Analytics and with Vistamilk SFI Research Centre.  </p>
+<p>I am a member of the organizing committee of spectroscopy monthly
+seminars in Vistamilk and of the annual <em>International Workshop on
+Spectroscopy and Chemometrics</em>.  </p>
 <p>My full CV is available <a href="documents/cv.pdf">here</a></p>
 <div id="research" class="section level3">
 <h3>Research</h3>
-<p>My research focuses on the development of flexible statistical methodologies to model high-dimensional and complex structured data, arising from different applied frameworks. More specifically, I am particularly interested on latent variable models, on the density-based formulation of the clustering problem and on the challenges arising when dealing with spectroscopic data. Recently, I started working on inferential problems arising in high-dimensional settings as for example when dealing with spatio-temporal data. <br> My main research interests are:</p>
+<p>My research focuses on the development of flexible statistical
+methodologies to model high-dimensional and complex structured data,
+arising from different applied frameworks. More specifically, I am
+particularly interested on latent variable models, on the density-based
+formulation of the clustering problem and on the challenges arising when
+dealing with spectroscopic data. Recently, I started working on
+inferential problems arising in high-dimensional settings as for example
+when dealing with spatio-temporal data. <br> My main research interests
+are:</p>
 <ul>
 <li>Mixture models and model-based clustering <br></li>
 <li>Modal clustering <br></li>
@@ -291,9 +311,17 @@ $(document).ready(function () {
 <div id="education" class="section level3">
 <h3>Education</h3>
 <ul>
-<li><p><strong>[2016-2020]</strong> - PhD in Statistics, University of Padova <br>       Supervisor Prof. Giovanna Menardi <br>       Thesis title: <em>Climbing modes and exploring mixtures: a journey in density-based clustering</em> <a href="http://paduaresearch.cab.unipd.it/12085/">(Link)</a></p></li>
-<li><p><strong>[2014-2016]</strong> - Master Degree in Statistical Sciences, University of Padova <br>       Final degree: 110/110 cum laude</p></li>
-<li><p><strong>[2011-2014]</strong> - Bachelor Degree in Statistics, Econimics and Finance, University of Padova <br>       Final degree: 110/110 cum laude</p></li>
+<li><p><strong>[2016-2020]</strong> - PhD in Statistics, University of
+Padova <br>       Supervisor Prof. Giovanna Menardi <br>       Thesis
+title: <em>Climbing modes and exploring mixtures: a journey in
+density-based clustering</em> <a
+href="http://paduaresearch.cab.unipd.it/12085/">(Link)</a></p></li>
+<li><p><strong>[2014-2016]</strong> - Master Degree in Statistical
+Sciences, University of Padova <br>       Final degree: 110/110 cum
+laude</p></li>
+<li><p><strong>[2011-2014]</strong> - Bachelor Degree in Statistics,
+Econimics and Finance, University of Padova <br>       Final degree:
+110/110 cum laude</p></li>
 </ul>
 </div>
 

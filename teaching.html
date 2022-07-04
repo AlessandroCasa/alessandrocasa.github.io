@@ -13,7 +13,8 @@
 
 <title>Teaching</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -79,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -231,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -275,21 +280,27 @@ $(document).ready(function () {
 <div id="free-univeristy-of-bozen-bolzano" class="section level3">
 <h3>Free Univeristy of Bozen-Bolzano</h3>
 <ul>
-<li>Statistical Methods for Business Analysis - Lecturer <br> MSc in Entrepreneurship and Innovation - Academic year 2021/2022</li>
+<li>Statistical Methods for Business Analysis - Lecturer <br> MSc in
+Entrepreneurship and Innovation - Academic year 2021/2022</li>
 </ul>
 </div>
 <div id="university-college-dublin" class="section level3">
 <h3>University College Dublin</h3>
 <ul>
-<li>STAT20060, Statistics &amp; Probability - Lecturer <br> Level 2 - Academic year 2019/2020</li>
-<li>STAT20060, Statistics &amp; Probability - Tutor <br> Level 2 - Academic year 2019/2020</li>
-<li>STAT30270/40590, Statistical Machine Learning - Tutor <br> Level 3 - Academic year 2019/2020</li>
+<li>STAT20060, Statistics &amp; Probability - Lecturer <br> Level 2 -
+Academic year 2019/2020</li>
+<li>STAT20060, Statistics &amp; Probability - Tutor <br> Level 2 -
+Academic year 2019/2020</li>
+<li>STAT30270/40590, Statistical Machine Learning - Tutor <br> Level 3 -
+Academic year 2019/2020</li>
 </ul>
 </div>
 <div id="university-of-padova" class="section level3">
 <h3>University of Padova</h3>
 <ul>
-<li><em>Bike sharing in Paris: a case study</em> (in italian). Specialist lecture during the class Statistica Iterazione <br> Master degree - Academic year 2018/2019</li>
+<li><em>Bike sharing in Paris: a case study</em> (in italian).
+Specialist lecture during the class Statistica Iterazione <br> Master
+degree - Academic year 2018/2019</li>
 </ul>
 <p> </p>
 </div>
@@ -297,9 +308,26 @@ $(document).ready(function () {
 <h2>Software</h2>
 <p>Most of my code is available on my Github page.</p>
 <ul>
-<li><strong>BSMC</strong> (with <a href="http://matematicas.unex.es/~jechacon/index_eng.htm">J.E.Chacon</a> and <a href="https://homes.stat.unipd.it/giovannamenardi/">G.Menardi</a>) <br> Computes two different modal clustering-oriented bandwidth selectors obtained as the minimizer of the Asymptotic Expected Distance in Measure (AEDM) derived in Casa, A., Chacon, J.E. &amp; Menardi, G. (2020) (<a href="https://github.com/AlessandroCasa/BsMc">Link</a>)</li>
-<li><strong>NP_Semisupervised_Class</strong> (with <a href="https://homes.stat.unipd.it/giovannamenardi/">G.Menardi</a>) <br> The folder on Github contains the code to implement the nonparametric semisupervised classification procedure proposed in Casa, A. &amp; Menardi, G. (2021+) (<a href="https://github.com/AlessandroCasa/NP_SemiSupervised_Class">Link</a>)</li>
-<li><strong>RAINBAUD</strong> (with <a href="https://tulliapadellini.github.io/code/">T. Padellini</a>) <br> Transforms your arbitrarily long text files into color-palettes. It implements Latent Dirichlet Allocation for topic modeling to summarize long text and it provides color aggregation and color sorting methods (<a href="https://github.com/tulliapadellini/rainbaud">Link</a>)</li>
+<li><strong>BSMC</strong> (with <a
+href="http://matematicas.unex.es/~jechacon/index_eng.htm">J.E.Chacon</a>
+and <a
+href="https://homes.stat.unipd.it/giovannamenardi/">G.Menardi</a>) <br>
+Computes two different modal clustering-oriented bandwidth selectors
+obtained as the minimizer of the Asymptotic Expected Distance in Measure
+(AEDM) derived in Casa, A., Chacon, J.E. &amp; Menardi, G. (2020) (<a
+href="https://github.com/AlessandroCasa/BsMc">Link</a>)</li>
+<li><strong>NP_Semisupervised_Class</strong> (with <a
+href="https://homes.stat.unipd.it/giovannamenardi/">G.Menardi</a>) <br>
+The folder on Github contains the code to implement the nonparametric
+semisupervised classification procedure proposed in Casa, A. &amp;
+Menardi, G. (2021+) (<a
+href="https://github.com/AlessandroCasa/NP_SemiSupervised_Class">Link</a>)</li>
+<li><strong>RAINBAUD</strong> (with <a
+href="https://tulliapadellini.github.io/code/">T. Padellini</a>) <br>
+Transforms your arbitrarily long text files into color-palettes. It
+implements Latent Dirichlet Allocation for topic modeling to summarize
+long text and it provides color aggregation and color sorting methods
+(<a href="https://github.com/tulliapadellini/rainbaud">Link</a>)</li>
 </ul>
 </div>
 

@@ -13,7 +13,8 @@
 
 <title>Talks</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -79,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -231,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -273,23 +278,86 @@ $(document).ready(function () {
 
 
 <ul>
-<li><p><em>Co-clustering of time-dependent data via the Shape Invariant Model</em> (<a href="documents/TCD_seminar.pdf">slides</a>, February 2022) <br> Trinity College Dublin Statistics Seminar Series [seminar]</p></li>
-<li><p><em>Model-based co-clustering of multivariate time-dependent data</em> (<a href="documents/ercim_2021.pdf">slides</a>, December 2021) <br> 14th International Conference of the ERCIM WG - CMStatistics 2021 [invited]</p></li>
-<li><p><em>Sparse matrix-variate model-based clustering via penalized estimation</em> (<a href="documents/wg_mbc_21.pdf">slides</a>, October 2021) <br> Working Group on Model-Based Clustering, Athens [short presentation]</p></li>
-<li><p><em>Model-based clustering with sparse matrix mixture models</em> (<a href="documents/cladag_2021.pdf">slides</a>, September 2021) <br> CLADAG - Classification and Data Analysis Group, online [contributed]</p></li>
-<li><p><em>Parsimonious modelling of spectroscopy data via a Bayesian latent variables approach</em> (<a href="documents/SIS_2021.pdf">slides</a>, June 2021) <br> 50th Scientific Meeting of the Italian Statistical Society, online [contributed]</p></li>
-<li><p><em>Parsimonious Bayesian Factor Analysis with application to milk spectroscopy data</em> (<a href="documents/CASI_2021.pdf">slides</a>, May 2021) <br> 41st Conference on Applied Statistics in Ireland, online [contributed]</p></li>
-<li><p><em>Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data</em> (<a href="documents/wg_ucd_2021.pdf">slides</a>, February 2021) <br> UCD Working Group on Statistical Learning, online [seminar]</p></li>
-<li><p><em>Better than the best? Blending models and approaches in density-based clustering</em> (<a href="documents/wg_ucd.pdf">slides</a>, February 2020) <br> UCD Working Group on Statistical Learning, Dublin [seminar]</p></li>
-<li><p><em>Asymptotics for bandwidth selection in nonparametric clustering</em> (<a href="documents/cladag19.pdf">slides</a>, September 2019) <br> CLADAG - Classification and Data Analysis Group, Cassino [invited]</p></li>
-<li><p><em>Nonparametric semisupervised classification and variable selection for new physics searches</em> (<a href="documents/ems2019.pdf">slides</a>, July 2019) <br> European Meeting of Statisticians, Palermo [invited]</p></li>
-<li><p><em>Co-clustering of time-dependent data</em> (<a href="documents/poster_wg19.pdf">poster</a>, July 2019) <br> Working Group on Model-Based Clustering, Wien [poster]</p></li>
-<li><p><em>Averaging via stacking in model-based clustering</em> (<a href="documents/aspd.pdf">slides</a>, September 2018) <br> Workshop Advanced Statistics for Physics Discovery, Padova [short presentation]</p></li>
-<li><p><em>Averaging via stacking in model-based clustering</em> (<a href="documents/template_mbc2.pdf">slides</a> - <a href="documents/conference_poster_2.pdf">poster</a>, September 2018) <br> MBC2 2018 Workshop on Model-Based Clustering and Classification, Catania [poster]</p></li>
-<li><p><em>On the selection uncertainty in parametric clustering</em> (<a href="documents/ecda.pdf">slides</a>, July 2018) <br> ECDA 2018 European Conference on Data Analysis, Paderborn [contributed]</p></li>
-<li><p><em>On the choice of an appropriate bandwidth for modal clustering</em> (<a href="documents/sis2018.pdf">slides</a>, June 2018) <br> SIS 2018 49th Scientific meeting of the Italian Statistical Society, Palermo [contributed]</p></li>
-<li><p><em>Clustering-oriented selection of the amount of smoothing in kernel density estimation</em> (<a href="documents/isnps.pdf">slides</a>, June 2018) <br> 4th Conference of the International Society for Nonparametric Statistics, Salerno [contributed]</p></li>
-<li><p><em>Signal detection in high energy physics via a semisupervised nonparametric approach</em> (<a href="documents/slide_sis2017b.pdf">slides</a>, June 2017). SIS 2017 Intermediate conference of the Italian Statistical Society, Florence [contributed]</p></li>
+<li><p><em>Group-wise penalized estimation schemes in model-based
+clustering</em> (<a href="documents/sis2022.pdf">slides</a>, June 2022)
+<br> 51st Scientific Meeting of the Italian Statistical Society, Caserta
+[invited]</p></li>
+<li><p><em>Co-clustering of time-dependent data via the Shape Invariant
+Model</em> (<a href="documents/TCD_seminar.pdf">slides</a>, February
+2022) <br> Trinity College Dublin Statistics Seminar Series, online
+[seminar]</p></li>
+<li><p><em>Model-based co-clustering of multivariate time-dependent
+data</em> (<a href="documents/ercim_2021.pdf">slides</a>, December 2021)
+<br> 14th International Conference of the ERCIM WG - CMStatistics 2021,
+online [invited]</p></li>
+<li><p><em>Sparse matrix-variate model-based clustering via penalized
+estimation</em> (<a href="documents/wg_mbc_21.pdf">slides</a>, October
+2021) <br> Working Group on Model-Based Clustering, Athens [short
+presentation]</p></li>
+<li><p><em>Model-based clustering with sparse matrix mixture models</em>
+(<a href="documents/cladag_2021.pdf">slides</a>, September 2021) <br>
+CLADAG - Classification and Data Analysis Group, online
+[contributed]</p></li>
+<li><p><em>Parsimonious modelling of spectroscopy data via a Bayesian
+latent variables approach</em> (<a
+href="documents/SIS_2021.pdf">slides</a>, June 2021) <br> 50th
+Scientific Meeting of the Italian Statistical Society, online
+[contributed]</p></li>
+<li><p><em>Parsimonious Bayesian Factor Analysis with application to
+milk spectroscopy data</em> (<a
+href="documents/CASI_2021.pdf">slides</a>, May 2021) <br> 41st
+Conference on Applied Statistics in Ireland, online
+[contributed]</p></li>
+<li><p><em>Parsimonious Bayesian Factor Analysis for modelling latent
+structures in spectroscopy data</em> (<a
+href="documents/wg_ucd_2021.pdf">slides</a>, February 2021) <br> UCD
+Working Group on Statistical Learning, online [seminar]</p></li>
+<li><p><em>Better than the best? Blending models and approaches in
+density-based clustering</em> (<a
+href="documents/wg_ucd.pdf">slides</a>, February</p>
+<ol start="2020" style="list-style-type: decimal">
+<li><br> UCD Working Group on Statistical Learning, Dublin
+[seminar]</li>
+</ol></li>
+<li><p><em>Asymptotics for bandwidth selection in nonparametric
+clustering</em> (<a href="documents/cladag19.pdf">slides</a>, September
+2019) <br> CLADAG - Classification and Data Analysis Group, Cassino
+[invited]</p></li>
+<li><p><em>Nonparametric semisupervised classification and variable
+selection for new physics searches</em> (<a
+href="documents/ems2019.pdf">slides</a>, July</p>
+<ol start="2019" style="list-style-type: decimal">
+<li><br> European Meeting of Statisticians, Palermo [invited]</li>
+</ol></li>
+<li><p><em>Co-clustering of time-dependent data</em> (<a
+href="documents/poster_wg19.pdf">poster</a>, July 2019) <br> Working
+Group on Model-Based Clustering, Wien [poster]</p></li>
+<li><p><em>Averaging via stacking in model-based clustering</em> (<a
+href="documents/aspd.pdf">slides</a>, September 2018) <br> Workshop
+Advanced Statistics for Physics Discovery, Padova [short
+presentation]</p></li>
+<li><p><em>Averaging via stacking in model-based clustering</em> (<a
+href="documents/template_mbc2.pdf">slides</a> - <a
+href="documents/conference_poster_2.pdf">poster</a>, September 2018)
+<br> MBC2 2018 Workshop on Model-Based Clustering and Classification,
+Catania [poster]</p></li>
+<li><p><em>On the selection uncertainty in parametric clustering</em>
+(<a href="documents/ecda.pdf">slides</a>, July 2018) <br> ECDA 2018
+European Conference on Data Analysis, Paderborn [contributed]</p></li>
+<li><p><em>On the choice of an appropriate bandwidth for modal
+clustering</em> (<a href="documents/sis2018.pdf">slides</a>, June 2018)
+<br> SIS 2018 49th Scientific meeting of the Italian Statistical
+Society, Palermo [contributed]</p></li>
+<li><p><em>Clustering-oriented selection of the amount of smoothing in
+kernel density estimation</em> (<a
+href="documents/isnps.pdf">slides</a>, June 2018) <br> 4th Conference of
+the International Society for Nonparametric Statistics, Salerno
+[contributed]</p></li>
+<li><p><em>Signal detection in high energy physics via a semisupervised
+nonparametric approach</em> (<a
+href="documents/slide_sis2017b.pdf">slides</a>, June 2017). SIS 2017
+Intermediate conference of the Italian Statistical Society, Florence
+[contributed]</p></li>
 </ul>
 
 
