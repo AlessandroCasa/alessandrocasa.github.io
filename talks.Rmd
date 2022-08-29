@@ -6,6 +6,10 @@ editor_options:
     wrap: 72
 ---
 
+-   *Model ensemble in density-based clustering*
+    ([slides](documents/Casa_compstat22.pdf), August, 2022) <br> 24th International conference 
+    on Computational Statisitcs - COMPSTAT 2022, Bologna [invited]
+
 -   *Group-wise penalized estimation schemes in model-based clustering*
     ([slides](documents/sis2022.pdf), June 2022) <br> 51st Scientific
     Meeting of the Italian Statistical Society, Caserta [invited]

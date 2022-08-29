@@ -3,15 +3,17 @@ title: "Teaching"
 ---
 
 ### Free Univeristy of Bozen-Bolzano
+* Statistics - Teaching assistant (in italian) <br>
+BSc in Economics and Management, Academic year 2022/2023
 * Statistical Methods for Business Analysis - Lecturer <br>
 MSc in Entrepreneurship and Innovation - Academic year 2021/2022
 
 ### University College Dublin 
 * STAT20060, Statistics & Probability - Lecturer  <br>
 Level 2 - Academic year 2019/2020
-* STAT20060, Statistics & Probability - Tutor <br> 
+* STAT20060, Statistics & Probability - Teaching assistant <br> 
 Level 2 - Academic year 2019/2020
-* STAT30270/40590, Statistical Machine Learning - Tutor <br>
+* STAT30270/40590, Statistical Machine Learning - Teaching assistant <br>
 Level 3 - Academic year 2019/2020
 
 

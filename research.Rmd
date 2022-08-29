@@ -50,11 +50,13 @@ SM Journal of Biometrics & Biostatistics, 3(3), 1033.
 [(Link)](https://www.jsmcentral.org/sm-biometrics-biostatistics/fulltext_smjbb-v3-1033.pdf)
 
 ### Book Chapters 
+* **Casa, A.**, Cappozzo, A. & Fop, M. (2023). <br> *Penalized Model-Based Clustering with Group-Dependent Shrinkage Estimation.* <br> Building Bridges between Soft and Statistical Methodologies for Data Science. SMPS 2022. Advances in Intelligent Systems and Computing, vol 1433. Springer. https://doi.org/10.1007/978-3-031-15509-3_10
 * Cabassi A., **Casa, A.**, Farcomeni, A., Fontana, M. & Russo, M. (2018). <br>
 *Three testing perspectives on connectome data.* <br>
 Studies in Neural Data Science, Springer Volume ‘Proceedings in Mathematics & Statistics’, ISBN-9783030000394.
 
 ### Refereed Conference Proceedings
+* **Casa, A.**, Scrucca, L. & Menardi, G. (2022) <br> *Model ensemble in density-based clustering* <br> Programme and Abstracts, 24th International Conference on Computational Statistics (COMPSTAT 2022), ISBN 978-90-73592-40-7
 * **Casa, A.**, Bouveyron, C., Erosheva, E. & Menardi, G. (2021) <br>
 *Model-based co-clustering of multivariate time-dependent data* <br>
 Book of Abstract, CFE-CMStatistics 2021. ISBN 978-9925-7812-5-6
