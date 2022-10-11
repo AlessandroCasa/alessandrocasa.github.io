@@ -5,6 +5,8 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+-   *Penalized matrix-variate model-based clustering*
+    ([slides](documents/ecda22.pdf), September, 2022) <br> European Conference on Data Analysis         2022 - ECDA 2022, Naples [invited]
 
 -   *Model ensemble in density-based clustering*
     ([slides](documents/Casa_compstat22.pdf), August, 2022) <br> 24th International conference 

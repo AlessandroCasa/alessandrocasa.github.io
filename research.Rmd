@@ -3,33 +3,36 @@ title: "Publications"
 ---
 
 ### Preprints and Submitted Papers
-* **Casa, A.**, Cappozzo, A. & Fop, M. (2021+) <br>
-*Group-wise shrinkage estimation in penalized model-based clustering*. <br>
-[(arXiv)](https://arxiv.org/pdf/2105.07935.pdf)
+* Frizzarin, M., Visentin, G., [...], Zappaterra, M. & **Casa, A.** (2022+) <br>
+*Classification of cow diet based on milk mid infrared spectra: a data analysis competition at the "International workshop of spectroscopy and chemometrics 2022"* <br>
+[(arXiv)](https://arxiv.org/abs/2210.04479)
 
 ### Articles 
-* **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2021+). <br>
+* **Casa, A.**, Cappozzo, A. & Fop, M. (2022) <br>
+*Group-wise shrinkage estimation in penalized model-based clustering*. <br>
+Journal of Classification [(Link)](https://trebuchet.public.springernature.app/get_content/ad077255-1a27-483c-8bad-5e1dd35951ba)
+* **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2022). <br>
 *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data*. <br>
-Annals of Applied Statistics (just accepted) [(arXiv)](https://arxiv.org/pdf/2101.12499.pdf)
+Annals of Applied Statistics, 16(4), 2417--2436 [(Link)](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-4/Parsimonious-Bayesian-factor-analysis-for-modelling-latent-structures-in-spectroscopy/10.1214/21-AOAS1597.short)
+* **Casa, A.** & Menardi, G. (2022). <br> 
+*Nonparametric semi-supervised classification with application to signal detection in high energy physics.* <br>
+Statistical Methods & Applications, 31(3), 531--550 [(Link)](https://doi.org/10.1007/s10260-021-00585-3)
 * Frizzarin, M., Gormley, I.C., **Casa, A.** & McParland, S. (2021) <br>
 *Selecting milk spectra to develop equations to predict milk technological traits*. <br>
 Foods, 10(12), 3084.
 * Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., **Casa, A.**, [...], Vischia, P. & Weiler, A. (2021) <br>
 *Advanced multi-variate analysis methods for new physics searches at the Large Hadron Collider*. <br>
-Reviews in Physics (In press)
-[(arXiv)](https://arxiv.org/pdf/2105.07530.pdf)
+Reviews in Physics, 7, 100063
+[(Link)](https://www.sciencedirect.com/science/article/pii/S2405428321000095)
 * Frizzarin, M., Bevilacqua, A., [...], Stefanucci, M. & **Casa, A.** (2021) <br>
 *Mid infrared spectroscopy and milk quality traits: a data analysis competition at the “International Workshop on Spectroscopy and Chemometrics 2021”* <br>
 Chemometrics and Intelligent Laboratory Systems, 219, 104442  [(Link)](https://www.sciencedirect.com/science/article/pii/S0169743921002100)
 * **Casa, A.**, Bouveyron, C., Erosheva, E. & Menardi, G. (2021). <br>
 *Co-clustering of time-dependent data via the Shape Invariant Model*. <br>
-Journal of Classification, 38, 626-649 [(Link)](https://link.springer.com/article/10.1007%2Fs00357-021-09402-8)
+Journal of Classification, 38(3), 626-649 [(Link)](https://link.springer.com/article/10.1007%2Fs00357-021-09402-8)
 * Frizzarin, M., O'Callaghan, T.F., Murphy, T.B., Hennessy, D. & **Casa, A.** (2021). <br>
 *Application of machine learning methods to milk mid-infrared spectra for discrimination of cows milk from pasture or total mixed ration diets*. <br>
 Journal of Dairy Science, 104(12), 12394-12402 [(Link)](https://www.sciencedirect.com/science/article/pii/S0022030221009097?dgcid=author).
-* **Casa, A.** & Menardi, G. (2021). <br> 
-*Nonparametric semi-supervised classification with application to signal detection in high energy physics.* <br>
-Statistical Methods & Applications [(Link)](https://doi.org/10.1007/s10260-021-00585-3)
 * **Casa, A.**, Fop, M. & Murphy, T.B. (2021). <br>
 *Contributed Discussion on "Centered partition processes: informative priors for clustering" by Paganin, S., Herring, A.H., Olshan, A.F. & Dunson, D.B.* <br>
 Bayesian Analysis, 16(1), 301-370.
