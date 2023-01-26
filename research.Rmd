@@ -2,12 +2,12 @@
 title: "Publications"
 ---
 
-### Preprints and Submitted Papers
-* Frizzarin, M., Visentin, G., [...], Zappaterra, M. & **Casa, A.** (2022+) <br>
-*Classification of cow diet based on milk mid infrared spectra: a data analysis competition at the "International workshop of spectroscopy and chemometrics 2022"* <br>
-[(arXiv)](https://arxiv.org/abs/2210.04479)
-
 ### Articles 
+* Frizzarin, M., Visentin, G., [...], Zappaterra, M. & **Casa, A.** (2023) <br>
+*Classification of cow diet based on milk Mid Infrared Spectra: A data analysis competition at the "International Workshop on Spectroscopy and Chemometrics 2022"* <br>
+Chemometrics and Intelligent Laboratory Systems, 104755
+[(Link)](https://www.sciencedirect.com/science/article/pii/S0169743923000059)
+
 * **Casa, A.**, Cappozzo, A. & Fop, M. (2022) <br>
 *Group-wise shrinkage estimation in penalized model-based clustering*. <br>
 Journal of Classification [(Link)](https://trebuchet.public.springernature.app/get_content/ad077255-1a27-483c-8bad-5e1dd35951ba)

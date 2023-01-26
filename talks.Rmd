@@ -5,84 +5,84 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+
+- *Unveiling patterns in spectroscopy data via a Bayesian latent variables approach* (December, 2022) <br> International Conference of the ERCIM WG - CMStatistics 2022, London [invited]
+
+- *Parsimonious Bayesian factor analysis with application to spectroscopy data* (December, 2022) <br> Workshop on statistical learning and econometrics, Bolzano [invited]
+
 -   *Penalized matrix-variate model-based clustering*
-    ([slides](documents/ecda22.pdf), September, 2022) <br> European Conference on Data Analysis         2022 - ECDA 2022, Naples [invited]
+    (September, 2022) <br> European Conference on Data Analysis 2022 - ECDA 2022, Naples [invited]
 
 -   *Model ensemble in density-based clustering*
-    ([slides](documents/Casa_compstat22.pdf), August, 2022) <br> 24th International conference 
-    on Computational Statisitcs - COMPSTAT 2022, Bologna [invited]
+    (August, 2022) <br> 24th International conference 
+    on Computational Statistics - COMPSTAT 2022, Bologna [invited]
 
 -   *Group-wise penalized estimation schemes in model-based clustering*
-    ([slides](documents/sis2022.pdf), June 2022) <br> 51st Scientific
+    (June 2022) <br> 51st Scientific
     Meeting of the Italian Statistical Society, Caserta [invited]
 
 -   *Co-clustering of time-dependent data via the Shape Invariant Model*
-    ([slides](documents/TCD_seminar.pdf), February 2022) <br> Trinity
+    (February 2022) <br> Trinity
     College Dublin Statistics Seminar Series, online [seminar]
 
 -   *Model-based co-clustering of multivariate time-dependent data*
-    ([slides](documents/ercim_2021.pdf), December 2021) <br> 14th
+    (December 2021) <br> 14th
     International Conference of the ERCIM WG - CMStatistics 2021, online
     [invited]
 
--   *Sparse matrix-variate model-based clustering via penalized
-    estimation* ([slides](documents/wg_mbc_21.pdf), October 2021) <br>
-    Working Group on Model-Based Clustering, Athens [short presentation]
+-   *Sparse matrix-variate model-based clustering via penalized estimation* (October 2021) <br> Working Group on Model-Based Clustering, Athens [short presentation]
 
 -   *Model-based clustering with sparse matrix mixture models*
-    ([slides](documents/cladag_2021.pdf), September 2021) <br> CLADAG -
+    (September 2021) <br> CLADAG -
     Classification and Data Analysis Group, online [contributed]
 
--   *Parsimonious modelling of spectroscopy data via a Bayesian latent      variables approach* ([slides](documents/SIS_2021.pdf), June 2021)
+-   *Parsimonious modelling of spectroscopy data via a Bayesian latent      variables approach* (June 2021)
     <br> 50th Scientific Meeting of the Italian Statistical Society,
     online [contributed]
 
--   *Parsimonious Bayesian Factor Analysis with application to milk spectroscopy data* ([slides](documents/CASI_2021.pdf), May 2021)
+-   *Parsimonious Bayesian Factor Analysis with application to milk spectroscopy data* (May 2021)
     <br> 41st Conference on Applied Statistics in Ireland, online
     [contributed]
 
 -   *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data*
-    ([slides](documents/wg_ucd_2021.pdf), February 2021) <br> UCD
+    (February 2021) <br> UCD
     Working Group on Statistical Learning, online [seminar]
 
--   *Better than the best? Blending models and approaches in density-based clustering* ([slides](documents/wg_ucd.pdf), February 2020) <br> UCD Working Group on Statistical Learning, Dublin [seminar]
+-   *Better than the best? Blending models and approaches in density-based clustering* (February 2020) <br> UCD Working Group on Statistical Learning, Dublin [seminar]
 
 -   *Asymptotics for bandwidth selection in nonparametric clustering*
-    ([slides](documents/cladag19.pdf), September 2019) <br> CLADAG -
+    (September 2019) <br> CLADAG -
     Classification and Data Analysis Group, Cassino [invited]
 
--   *Nonparametric semisupervised classification and variable selection for new physics searches* ([slides](documents/ems2019.pdf), July 2019) <br> European Meeting of Statisticians, Palermo [invited]
+-   *Nonparametric semisupervised classification and variable selection for new physics searches* (July 2019) <br> European Meeting of Statisticians, Palermo [invited]
 
 -   *Co-clustering of time-dependent data*
-    ([poster](documents/poster_wg19.pdf), July 2019) <br> Working Group
+    (July 2019) <br> Working Group
     on Model-Based Clustering, Wien [poster]
 
 -   *Averaging via stacking in model-based clustering*
-    ([slides](documents/aspd.pdf), September 2018) <br> Workshop
+    (September 2018) <br> Workshop
     Advanced Statistics for Physics Discovery, Padova [short
     presentation]
 
 -   *Averaging via stacking in model-based clustering*
-    ([slides](documents/template_mbc2.pdf) -
-    [poster](documents/conference_poster_2.pdf), September 2018) <br>
+    (September 2018) <br>
     MBC2 2018 Workshop on Model-Based Clustering and Classification,
     Catania [poster]
 
 -   *On the selection uncertainty in parametric clustering*
-    ([slides](documents/ecda.pdf), July 2018) <br> ECDA 2018 European
+    (July 2018) <br> ECDA 2018 European
     Conference on Data Analysis, Paderborn [contributed]
 
 -   *On the choice of an appropriate bandwidth for modal clustering*
-    ([slides](documents/sis2018.pdf), June 2018) <br> SIS 2018 49th
+    (June 2018) <br> SIS 2018 49th
     Scientific meeting of the Italian Statistical Society, Palermo
     [contributed]
 
 -   *Clustering-oriented selection of the amount of smoothing in kernel
-    density estimation* ([slides](documents/isnps.pdf), June 2018) <br>
+    density estimation* (June 2018) <br>
     4th Conference of the International Society for Nonparametric
     Statistics, Salerno [contributed]
 
 -   *Signal detection in high energy physics via a semisupervised
-    nonparametric approach* ([slides](documents/slide_sis2017b.pdf),
-    June 2017). SIS 2017 Intermediate conference of the Italian
-    Statistical Society, Florence [contributed]
+    nonparametric approach* (June 2017). <br> SIS 2017 Intermediate conference of the Italian Statistical Society, Florence [contributed]
