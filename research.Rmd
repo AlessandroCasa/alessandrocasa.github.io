@@ -2,7 +2,16 @@
 title: "Publications"
 ---
 
-### Articles 
+### Submitted preprints
+* Cappozzo, A., **Casa, A.** & Fop, M. (2023+) <br>
+*Sparse model-based clustering of three-way data via lasso-type penalties* <br>
+arXiv:2307.10673 [(Link)](https://arxiv.org/abs/2307.10673)
+
+* Ferraccioli, F., **Casa, A.** & Stefanucci, M. (2023+) <br>
+*Ad adaptive functional regression framework for spatially heterogeneous signals in spectroscopy* <br>
+arXiv:2309.06999 [(Link)](https://arxiv.org/abs/2309.06999)
+
+### Articles in refereed journals
 * Frizzarin, M., Visentin, G., [...], Zappaterra, M. & **Casa, A.** (2023) <br>
 *Classification of cow diet based on milk Mid Infrared Spectra: A data analysis competition at the "International Workshop on Spectroscopy and Chemometrics 2022"* <br>
 Chemometrics and Intelligent Laboratory Systems, 104755
@@ -59,6 +68,9 @@ SM Journal of Biometrics & Biostatistics, 3(3), 1033.
 Studies in Neural Data Science, Springer Volume ‘Proceedings in Mathematics & Statistics’, ISBN-9783030000394.
 
 ### Refereed Conference Proceedings
+* **Casa, A.**, Murphy, T.B. & Fop, M. (2023) <br> *Partial membership models for high-dimensional spectroscopy data* <br>CLADAG 2023 - Book of Abstracts and Short Papers. ISBN: 9788891935632
+* **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2022) <br> *Unveiling patterns in spectroscopy data via a Bayesian latent variables approach* <br>
+	Book of Abstracts, CFE-CMStatistics 2022. ISBN 978-9925-7812-6-3
 * **Casa, A.**, Scrucca, L. & Menardi, G. (2022) <br> *Model ensemble in density-based clustering* <br> Programme and Abstracts, 24th International Conference on Computational Statistics (COMPSTAT 2022), ISBN 978-90-73592-40-7
 * **Casa, A.**, Bouveyron, C., Erosheva, E. & Menardi, G. (2021) <br>
 *Model-based co-clustering of multivariate time-dependent data* <br>

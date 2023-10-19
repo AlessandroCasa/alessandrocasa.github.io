@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -277,8 +274,22 @@ $(document).ready(function () {
 </div>
 
 
-<div id="articles" class="section level3">
-<h3>Articles</h3>
+<div id="submitted-preprints" class="section level3">
+<h3>Submitted preprints</h3>
+<ul>
+<li><p>Cappozzo, A., <strong>Casa, A.</strong> &amp; Fop, M. (2023+)
+<br> <em>Sparse model-based clustering of three-way data via lasso-type
+penalties</em> <br> arXiv:2307.10673 <a
+href="https://arxiv.org/abs/2307.10673">(Link)</a></p></li>
+<li><p>Ferraccioli, F., <strong>Casa, A.</strong> &amp; Stefanucci, M.
+(2023+) <br> <em>Ad adaptive functional regression framework for
+spatially heterogeneous signals in spectroscopy</em> <br>
+arXiv:2309.06999 <a
+href="https://arxiv.org/abs/2309.06999">(Link)</a></p></li>
+</ul>
+</div>
+<div id="articles-in-refereed-journals" class="section level3">
+<h3>Articles in refereed journals</h3>
 <ul>
 <li><p>Frizzarin, M., Visentin, G., […], Zappaterra, M. &amp;
 <strong>Casa, A.</strong> (2023) <br> <em>Classification of cow diet
@@ -374,6 +385,14 @@ ISBN-9783030000394.</li>
 <div id="refereed-conference-proceedings" class="section level3">
 <h3>Refereed Conference Proceedings</h3>
 <ul>
+<li><strong>Casa, A.</strong>, Murphy, T.B. &amp; Fop, M. (2023) <br>
+<em>Partial membership models for high-dimensional spectroscopy
+data</em> <br>CLADAG 2023 - Book of Abstracts and Short Papers. ISBN:
+9788891935632</li>
+<li><strong>Casa, A.</strong>, O’Callaghan, T.F. &amp; Murphy, T.B.
+(2022) <br> <em>Unveiling patterns in spectroscopy data via a Bayesian
+latent variables approach</em> <br> Book of Abstracts, CFE-CMStatistics
+2022. ISBN 978-9925-7812-6-3</li>
 <li><strong>Casa, A.</strong>, Scrucca, L. &amp; Menardi, G. (2022) <br>
 <em>Model ensemble in density-based clustering</em> <br> Programme and
 Abstracts, 24th International Conference on Computational Statistics

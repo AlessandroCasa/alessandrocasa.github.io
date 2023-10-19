@@ -6,6 +6,14 @@ editor_options:
     wrap: 72
 ---
 
+- *Partial membership models for high-dimensional spectroscopy data* (September, 2023) <br> CLADAG - Classification and Data Analysis Group, Salerno [invited]
+
+- *Regularization strategies for partial membership models* (July, 2023) <br> Working Group of Model-Based Clustering, Carnegie Mellon University - Pittsburgh [invited]
+
+- *Parsimonious modelling of spectroscopy data via a Bayesian latent variables approach* (May, 2023) <br> Mathematics for Data Science, AI and ML Seminar series, University of Trento [seminar]
+
+- *Sparse covariance estimation via sparse composite likelihood* (February, 2023) <br>     UCD Working Group on Statistical Learning, Dublin [seminar]
+
 - *Unveiling patterns in spectroscopy data via a Bayesian latent variables approach* (December, 2022) <br> International Conference of the ERCIM WG - CMStatistics 2022, London [invited]
 
 - *Parsimonious Bayesian factor analysis with application to spectroscopy data* (December, 2022) <br> Workshop on statistical learning and econometrics, Bolzano [invited]

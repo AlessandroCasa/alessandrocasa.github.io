@@ -6,9 +6,6 @@ I am an Assistant Professor in Statistics (RTDa) at the Faculty of Economics and
 Previously, I worked as Postdoctoral Researcher at the University College Dublin, under the supervision of Prof. Brendan Murphy and I have been affiliated both with the Insight SFI Research Centre for Data Analytics and with Vistamilk SFI Research Centre.
 &nbsp; 
 
-I am a member of the organizing committee of spectroscopy monthly seminars in Vistamilk and of the annual *International Workshop on Spectroscopy and Chemometrics*. 
-&nbsp; 
-
 My full CV is available [here](documents/cv.pdf)
 
 ### Research 
@@ -21,7 +18,25 @@ My main research interests are:
 * Variable selection and dimensionality reduction <br>
 * Latent variable models <br>
 * Computational statistics <br> 
-* Chemometrics <br>
+* Chemometrics 
+
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="margin-top:50px;" class="img-container"> <!-- Block parent element -->
+      <img src="images/research_pic.jpg" alt="" height="350" width="600"/>
+    </div>
+  </body>
+</html>
+<br>
+
 
 ### Education 
 * **[2016-2020]** - PhD in Statistics, University of Padova <br>

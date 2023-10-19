@@ -4,6 +4,12 @@ title: "Teaching"
 
 ### Free Univeristy of Bozen-Bolzano
 * Statistics for Tourism, Sport and Event Management - Teaching assistant (in italian) <br>
+BSc in Tourism, Sports and Event Management, Academic year 2023/2024
+* High-dimensional Econometric Methods for Big Data - Lecturer (in english) <br> 
+PhD in Economics and Finance - Academic year 2022/2023 
+* Statistical Methods for Business Analysis - Lecturer (in english) <br>
+MSc in Entrepreneurship and Innovation - Academic year 2022/2023
+* Statistics for Tourism, Sport and Event Management - Teaching assistant (in italian) <br>
 BSc in Tourism, Sports and Event Management, Academic year 2022/2023
 * Statistics - Teaching assistant (in italian) <br>
 BSc in Economics and Management, Academic year 2022/2023
@@ -26,11 +32,5 @@ Master degree - Academic year 2018/2019
 &nbsp;
 
 ## Software
-Most of my code is available on my Github page.
+Most of my code is available on my [Github page](https://github.com/AlessandroCasa).
 
-* **BSMC** (with [J.E.Chacon](http://matematicas.unex.es/~jechacon/index_eng.htm) and [G.Menardi](https://homes.stat.unipd.it/giovannamenardi/)) <br>
-Computes two different modal clustering-oriented bandwidth selectors obtained as the minimizer of the Asymptotic Expected Distance in Measure (AEDM) derived in Casa, A., Chacon, J.E. & Menardi, G. (2020) ([Link](https://github.com/AlessandroCasa/BsMc))
-* **NP_Semisupervised_Class** (with [G.Menardi](https://homes.stat.unipd.it/giovannamenardi/)) <br>
-The folder on Github contains the code to implement the nonparametric semisupervised classification procedure proposed in Casa, A. & Menardi, G. (2021+) ([Link](https://github.com/AlessandroCasa/NP_SemiSupervised_Class))
-* **RAINBAUD** (with [T. Padellini](https://tulliapadellini.github.io/code/)) <br>
-Transforms your arbitrarily long text files into color-palettes. It implements Latent Dirichlet Allocation for topic modeling to summarize long text and it provides color aggregation and color sorting methods ([Link](https://github.com/tulliapadellini/rainbaud))
