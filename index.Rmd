@@ -27,8 +27,8 @@ title: ""
 **ALESSANDRO CASA** 
 </p>
 <p style="padding; 0px; margin: -10px; color:grey; text-align: center;font-size:20px;"> 
-Assistant Professor of Statistics <br>
-Free University of Bozen-Bolzano
+Assistant Professor of Statistics - RTDb <br>
+University of Bergamo 
 </p>
 
 
