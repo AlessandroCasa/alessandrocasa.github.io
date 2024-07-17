@@ -6,6 +6,10 @@ editor_options:
     wrap: 72
 ---
 
+- *Sparse model-based clustering of three-way data via lasso-type penalties* (July, 2024) <br> Working Group of Model-Based Clustering, University of Bologna - Bertinoro (FC)  [invited]
+
+- *Sparse partial membership models with applications in food science* (June, 2024) <br> 52nd Scientific meeting of the Italian Statistical Society, Bari [invited]
+
 - *Partial membership models for high-dimensional spectroscopy data* (September, 2023) <br> CLADAG - Classification and Data Analysis Group, Salerno [invited]
 
 - *Regularization strategies for partial membership models* (July, 2023) <br> Working Group of Model-Based Clustering, Carnegie Mellon University - Pittsburgh [invited]
