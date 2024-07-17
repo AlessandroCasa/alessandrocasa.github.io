@@ -3,11 +3,15 @@ title: "Publications"
 ---
 
 ### Submitted preprints
-* Cappozzo, A., **Casa, A.** & Fop, M. (2023+) <br>
+* **Casa, A.**, Ferrari, D. & Huang, Z. (2024+) <br>
+*High-dimensional covariance estimation by pairwise likelihood truncation* <br>
+arXiv:2407.07717 [(Link)](https://arxiv.org/pdf/2407.07717)
+
+* Cappozzo, A., **Casa, A.** & Fop, M. (2024+) <br>
 *Sparse model-based clustering of three-way data via lasso-type penalties* <br>
 arXiv:2307.10673 [(Link)](https://arxiv.org/abs/2307.10673)
 
-* Ferraccioli, F., **Casa, A.** & Stefanucci, M. (2023+) <br>
+* Ferraccioli, F., **Casa, A.** & Stefanucci, M. (2024+) <br>
 *Ad adaptive functional regression framework for spatially heterogeneous signals in spectroscopy* <br>
 arXiv:2309.06999 [(Link)](https://arxiv.org/abs/2309.06999)
 
@@ -56,10 +60,6 @@ Advances in Data Analysis and Classification, 15, 599-623.
 * **Casa, A.**, Chacon, J.E. & Menardi, G. (2020). <br>
 *Modal clustering asymptotics with applications to bandwidth selection.* <br>
 Electronic Journal of Statistics, 14(1), 835-856. [(Link)](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1581130993)
-* **Casa, A.** (2018).<br>
-*On the choice of the weight function for the integrated likelihood.* <br>
-SM Journal of Biometrics & Biostatistics, 3(3), 1033.
-[(Link)](https://www.jsmcentral.org/sm-biometrics-biostatistics/fulltext_smjbb-v3-1033.pdf)
 
 ### Book Chapters 
 * **Casa, A.**, Cappozzo, A. & Fop, M. (2023). <br> *Penalized Model-Based Clustering with Group-Dependent Shrinkage Estimation.* <br> Building Bridges between Soft and Statistical Methodologies for Data Science. SMPS 2022. Advances in Intelligent Systems and Computing, vol 1433. Springer. https://doi.org/10.1007/978-3-031-15509-3_10
@@ -68,47 +68,6 @@ SM Journal of Biometrics & Biostatistics, 3(3), 1033.
 Studies in Neural Data Science, Springer Volume ‘Proceedings in Mathematics & Statistics’, ISBN-9783030000394.
 
 ### Refereed Conference Proceedings
-* **Casa, A.**, Murphy, T.B. & Fop, M. (2023) <br> *Partial membership models for high-dimensional spectroscopy data* <br>CLADAG 2023 - Book of Abstracts and Short Papers. ISBN: 9788891935632
-* **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2022) <br> *Unveiling patterns in spectroscopy data via a Bayesian latent variables approach* <br>
-	Book of Abstracts, CFE-CMStatistics 2022. ISBN 978-9925-7812-6-3
-* **Casa, A.**, Scrucca, L. & Menardi, G. (2022) <br> *Model ensemble in density-based clustering* <br> Programme and Abstracts, 24th International Conference on Computational Statistics (COMPSTAT 2022), ISBN 978-90-73592-40-7
-* **Casa, A.**, Bouveyron, C., Erosheva, E. & Menardi, G. (2021) <br>
-*Model-based co-clustering of multivariate time-dependent data* <br>
-Book of Abstract, CFE-CMStatistics 2021. ISBN 978-9925-7812-5-6
-* Cappozzo, A., **Casa, A.** & Fop, M. (2021). <br>
-*Model-based clustering with sparse matrix mixture models*. <br>
-CLADAG 2021 - Book of Abstract and Short Papers. DOI: 10.36253/978-88-5518-340-6
-* Cappozzo, A., **Casa, A.** & Fop, M. (2021). <br>
-*Penalized model-based clustering for three-way data structures.* <br>
-Book of short papers - SIS 2021. ISBN 978-88-9192-736-1
-* **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2021). <br>
-*Parsimonious modelling of spectroscopy data via a Bayesian latent variables approach.* <br>
-Book of short papers - SIS 2021. ISBN 978-88-9192-736-1
-* **Casa, A.**, Chacon, J.E. & Menardi, G. (2019).<br>
-*Asymptotics for bandwidth selection in nonparametric clustering.* <br>
-CLADAG 2019 - Book of Short Papers. ISBN: 978-88-8317-108-6
-* **Casa, A.** & Menardi, G. (2019).<br>
-*Nonparametric Semisupervised Classification and Variable Selection for New Physics Searches.* <br> 
-EMS 2019 - Program and Book of Abstracts.
-* Pascali, G., **Casa, A.** & Menardi, G. (2019). <br>
-*Co-clustering TripAdvisor data for personalized recommendations.* <br>
-Proceedings of the Conference of the Italian Statistical Society. ISBN: 978-88-9191-51-0
-* **Casa, A.**, Scrucca, L. & Menardi, G. (2018).<br>
-*Averaging via stacking in model-based clustering.* <br>
-Book of Abstracts of the 4th International Workshop on Model-Based Clustering and Classification.
-* **Casa, A.**, Scrucca, L. & Menardi, G. (2018).<br>
-*On the selection uncertainty in parametric clustering.* <br>
-Book of Abstracts of the European Conference on Data Analysis.
-* **Casa, A.**, Chacon, J.E. & Menardi, G. (2018). <br>
-*On the choice of an appropriate bandwidth for modal clustering.* <br>
-Proceedings of the Conference of the Italian Statistical Society. ISBN: 978-88-9191-023-3.
-* **Casa, A.**, Chacon, J.E. & Menardi, G. (2018).<br>
-*Clustering-oriented selection of the amount of smoothing in kernel density estimation.* <br>
-Book of Abstracts ISNPS 2018. ISBN: 978-88-61970-00-7.
-* **Casa, A.** & Menardi, G. (2017).<br>
-*Signal detection in high energy physics via a semisupervised nonparametric approach.* <br>
-Proceedings of the Conference of the Italian Statistical Society. ISBN: 978-88-6453-521-0.
-* **Casa, A.** & Menardi, G. (2017). <br>
-*Nonparametric semi-supervised classification with application to signal detection in high energy physics.* <br> Book of Abstracts of the International Federation of Classification Societies (IFCS).
+For the complete list of refereed conference proceedigns, refer to the [curriculum vitae](documents/cv.pdf)
 
 
