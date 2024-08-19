@@ -11,11 +11,11 @@ arXiv:2407.07717 [(Link)](https://arxiv.org/pdf/2407.07717)
 *Sparse model-based clustering of three-way data via lasso-type penalties* <br>
 arXiv:2307.10673 [(Link)](https://arxiv.org/abs/2307.10673)
 
-* Ferraccioli, F., **Casa, A.** & Stefanucci, M. (2024+) <br>
-*Ad adaptive functional regression framework for spatially heterogeneous signals in spectroscopy* <br>
-arXiv:2309.06999 [(Link)](https://arxiv.org/abs/2309.06999)
-
 ### Articles in refereed journals
+* Ferraccioli, F., **Casa, A.** & Stefanucci, M. (2024) <br>
+*An adaptive functional regression framework for locally heterogeneous signals in spectroscopy* <br>
+Journal of the Royal Statistical Society Series C [(Link)](https://doi.org/10.1093/jrsssc/qlae040)
+
 * Frizzarin, M., Visentin, G., [...], Zappaterra, M. & **Casa, A.** (2023) <br>
 *Classification of cow diet based on milk Mid Infrared Spectra: A data analysis competition at the "International Workshop on Spectroscopy and Chemometrics 2022"* <br>
 Chemometrics and Intelligent Laboratory Systems, 104755
@@ -68,6 +68,6 @@ Electronic Journal of Statistics, 14(1), 835-856. [(Link)](https://projecteuclid
 Studies in Neural Data Science, Springer Volume ‘Proceedings in Mathematics & Statistics’, ISBN-9783030000394.
 
 ### Refereed Conference Proceedings
-For the complete list of refereed conference proceedigns, refer to the [curriculum vitae](documents/cv.pdf)
+For the complete list of refereed conference proceedings, refer to the [curriculum vitae](documents/cv.pdf)
 
 
