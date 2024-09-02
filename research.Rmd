@@ -3,6 +3,10 @@ title: "Publications"
 ---
 
 ### Submitted preprints
+* Cappozzo, A. & **Casa, A.** (2024+) <br>
+*Model-based clustering for covariance matrices via penalized Wishart mixture models* <br>
+arXiv:2408.17040 [(Link)](https://arxiv.org/abs/2408.17040)
+
 * **Casa, A.**, Ferrari, D. & Huang, Z. (2024+) <br>
 *High-dimensional covariance estimation by pairwise likelihood truncation* <br>
 arXiv:2407.07717 [(Link)](https://arxiv.org/pdf/2407.07717)
@@ -14,7 +18,7 @@ arXiv:2307.10673 [(Link)](https://arxiv.org/abs/2307.10673)
 ### Articles in refereed journals
 * Ferraccioli, F., **Casa, A.** & Stefanucci, M. (2024) <br>
 *An adaptive functional regression framework for locally heterogeneous signals in spectroscopy* <br>
-Journal of the Royal Statistical Society Series C [(Link)](https://doi.org/10.1093/jrsssc/qlae040)
+Journal of the Royal Statistical Society: Series C [(Link)](https://doi.org/10.1093/jrsssc/qlae040)
 
 * Frizzarin, M., Visentin, G., [...], Zappaterra, M. & **Casa, A.** (2023) <br>
 *Classification of cow diet based on milk Mid Infrared Spectra: A data analysis competition at the "International Workshop on Spectroscopy and Chemometrics 2022"* <br>
