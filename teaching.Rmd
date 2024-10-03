@@ -2,26 +2,43 @@
 title: "Teaching"
 ---
 
-### University of Bergamo 
+### Academic year 2024/25
+#### Free University of Bozen-Bolzano 
+* Statistical Methods for Business Analysis - Lecturer (in english) <br>
+MSc in Data Analytics for Economics and Management, MSc Entrepreneurship and Innovation
+* Research methods and experimental design - Lecturer (in english) <br> 
+MSc in Tourism Management
+* Statistics for Tourism, Sport and Event Management - Lecturer (in italian) <br>
+BSc in Tourism, Sports and Event Management
+
+### Academic year 2023/24
+#### University of Bergamo 
 * Statistics - Lecturer (in italian)
 <br>
-BSc in Ingegneria Meccanica, Academic year 2023/2024
+BSc in Ingegneria Meccanica
 
-### Free Univeristy of Bozen-Bolzano
+#### Free Univeristy of Bozen-Bolzano
 * Statistics for Tourism, Sport and Event Management - Teaching assistant (in italian) <br>
-BSc in Tourism, Sports and Event Management, Academic year 2023/2024
+BSc in Tourism, Sports and Event Management
+
+### Academic year 2022/23
+#### Free University of Bozen-Bolzano
 * High-dimensional Econometric Methods for Big Data - Lecturer (in english) <br> 
-PhD in Economics and Finance - Academic year 2022/2023 
+PhD in Economics and Finance 
 * Statistical Methods for Business Analysis - Lecturer (in english) <br>
-MSc in Entrepreneurship and Innovation - Academic year 2022/2023
+MSc in Entrepreneurship and Innovation 
 * Statistics for Tourism, Sport and Event Management - Teaching assistant (in italian) <br>
-BSc in Tourism, Sports and Event Management, Academic year 2022/2023
+BSc in Tourism, Sports and Event Management
 * Statistics - Teaching assistant (in italian) <br>
-BSc in Economics and Management, Academic year 2022/2023
-* Statistical Methods for Business Analysis - Lecturer <br>
-MSc in Entrepreneurship and Innovation - Academic year 2021/2022
+BSc in Economics and Management
 
-### University College Dublin 
+### Academic year 2021/22
+#### Free University of Bozen-Bolzano
+* Statistical Methods for Business Analysis - Lecturer <br>
+MSc in Entrepreneurship and Innovation 
+
+### Previous experiences
+#### University College Dublin 
 * STAT20060, Statistics & Probability - Lecturer  <br>
 Level 2 - Academic year 2019/2020
 * STAT20060, Statistics & Probability - Teaching assistant <br> 
@@ -29,8 +46,7 @@ Level 2 - Academic year 2019/2020
 * STAT30270/40590, Statistical Machine Learning - Teaching assistant <br>
 Level 3 - Academic year 2019/2020
 
-
-### University of Padova
+#### University of Padova
 * *Bike sharing in Paris: a case study* (in italian). Specialist lecture during the class Statistica Iterazione <br>
 Master degree - Academic year 2018/2019
 
