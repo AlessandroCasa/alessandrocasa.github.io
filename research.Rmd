@@ -3,7 +3,7 @@ title: "Publications"
 ---
 
 ### Submitted preprints
-* Cappozzo, A. & **Casa, A.** (2024+) <br>
+* Cappozzo, A. & **Casa, A.** (2024) <br>
 *Model-based clustering for covariance matrices via penalized Wishart mixture models* <br>
 arXiv:2408.17040 [(Link)](https://arxiv.org/abs/2408.17040)
 
@@ -11,11 +11,16 @@ arXiv:2408.17040 [(Link)](https://arxiv.org/abs/2408.17040)
 *High-dimensional covariance estimation by pairwise likelihood truncation* <br>
 arXiv:2407.07717 [(Link)](https://arxiv.org/pdf/2407.07717)
 
+### Articles in refereed journals
 * Cappozzo, A., **Casa, A.** & Fop, M. (2024+) <br>
 *Sparse model-based clustering of three-way data via lasso-type penalties* <br>
-arXiv:2307.10673 [(Link)](https://arxiv.org/abs/2307.10673)
+Journal of Computational and Graphical Statistics (in press) [(Link)](https://doi.org/10.1080/10618600.2024.2429705)
 
-### Articles in refereed journals
+* **Casa, A.**, Fop, M. & D'Angelo, S. (2024) <br>
+*Contributed discussion on "Sparse Bayesian factor analysis when the number of factors is unknown" by Frühwirth-Schnatter, S., Hosszejni, D. & Freitas Lopes, H.* <br>
+Bayesian Analysis (in press) 
+[(Link)](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
+
 * Ferraccioli, F., **Casa, A.** & Stefanucci, M. (2024) <br>
 *An adaptive functional regression framework for locally heterogeneous signals in spectroscopy* <br>
 Journal of the Royal Statistical Society: Series C [(Link)](https://doi.org/10.1093/jrsssc/qlae040)
