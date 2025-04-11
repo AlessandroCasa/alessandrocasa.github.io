@@ -2,10 +2,7 @@
 title: "About"
 ---
 
-I am an Associate Professor of Statistics at the Faculty of Economics and Management, Free University of Bozen-Bolzano.<br> Previously, I served as a Senior Assistant Professor (RTD-b) at the Department of Economics, University of Bergamo, and as a Junior Assistant Professor (RTD-a) at the Free University of Bozen-Bolzano. Prior to that, I was a Postdoctoral Researcher at University College Dublin under the supervision of Prof. Brendan Murphy, affiliated with the Insight and Vistamilk SFI Research Centre.
-&nbsp; 
-
-My full CV is available [here](documents/cv.pdf)
+I am an Associate Professor of Statistics at the Faculty of Economics and Management, Free University of Bozen-Bolzano (Italy). My full CV is available [here](documents/cv.pdf) <br>
 
 ### Research 
 My research focuses on the development of flexible statistical methodologies to model high-dimensional and complex structured data, arising from different applied frameworks. More specifically, I am particularly interested on latent variable models, on the density-based formulation of the clustering problem and on the challenges arising when dealing with spectroscopic data. Recently, I started working on inferential problems arising in high-dimensional settings as for example when dealing with spatio-temporal data. <br>
@@ -20,33 +17,24 @@ My main research interests are:
 * Computational statistics <br> 
 * Chemometrics 
 
-<html>
-  <head>
-    <title>Center an Image using text align center</title>
-    <style>
-      .img-container {
-        text-align: center;
-      }
-    </style>
-  </head>
-  <body>
-    <div style="margin-top:50px;" class="img-container"> <!-- Block parent element -->
-      <img src="images/research_pic.jpg" alt="" height="350" width="600"/>
-    </div>
-  </body>
-</html>
-<br>
+
+
+### Working experience 
+
+* **10/2024 - Ongoing** - Associate Professor, Faculty of Economics and Management, Free University of Bozen-Bolzano (Italy) <br>
+* **02/2023 - 09/2023** - Senior Assistant Professor (rtdB), Department of Economics, University of Bergamo (Italy) <br>
+* **01/2022 - 01/2023** - Junior Assistant Professor (rtdA), Faculty of Economics and Management, Free University of Bozen-Bolzano (Italy) <br>
+* **11/2019 - 12/2021** - Postdoctoral Research Fellow, School of Mathematics and Statistics, University College Dublin (Ireland) <br>
+<span style="display: inline-block; margin-left: 120px;">Affiliated with Vistamilk SFI Research Centre, Insight SFI Research Center, Supervisor Prof. T.B.Murphy  <br>
 
 
 ### Education 
 * **[2016-2020]** - PhD in Statistics, University of Padova <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor Prof. Giovanna Menardi <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Thesis title: *Climbing modes and exploring mixtures: a journey in density-based clustering* [(Link)](http://paduaresearch.cab.unipd.it/12085/)
-
 * **[2014-2016]** - Master Degree in Statistical Sciences, University of Padova <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Final degree: 110/110 cum laude
-
-* **[2011-2014]** - Bachelor Degree in Statistics, Econimics and Finance, University of Padova <br>
+* **[2011-2014]** - Bachelor Degree in Statistics, Economics and Finance, University of Padova <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Final degree: 110/110 cum laude
 
 

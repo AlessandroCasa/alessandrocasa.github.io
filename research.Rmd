@@ -2,8 +2,13 @@
 title: "Publications"
 ---
 
-### Submitted preprints
-* Cappozzo, A. & **Casa, A.** (2024) <br>
+### Articles under review
+
+* **Casa, A.** & Ferrari, D. (2025+) <br>
+*Confidence set for mixture order selection*
+arXiv:2503.18790 [(Link)](https://arxiv.org/abs/2503.18790)
+
+* Cappozzo, A. & **Casa, A.** (2024+) <br>
 *Model-based clustering for covariance matrices via penalized Wishart mixture models* <br>
 arXiv:2408.17040 [(Link)](https://arxiv.org/abs/2408.17040)
 
@@ -11,57 +16,31 @@ arXiv:2408.17040 [(Link)](https://arxiv.org/abs/2408.17040)
 *High-dimensional covariance estimation by pairwise likelihood truncation* <br>
 arXiv:2407.07717 [(Link)](https://arxiv.org/pdf/2407.07717)
 
-### Articles in refereed journals
-* Cappozzo, A., **Casa, A.** & Fop, M. (2024+) <br>
+### Articles in refereed journals (Statistics)
+* Cappozzo, A., **Casa, A.** & Fop, M. (2025) <br>
 *Sparse model-based clustering of three-way data via lasso-type penalties* <br>
 Journal of Computational and Graphical Statistics (in press) [(Link)](https://doi.org/10.1080/10618600.2024.2429705)
 
-* **Casa, A.**, Fop, M. & D'Angelo, S. (2024) <br>
-*Contributed discussion on "Sparse Bayesian factor analysis when the number of factors is unknown" by Frühwirth-Schnatter, S., Hosszejni, D. & Freitas Lopes, H.* <br>
-Bayesian Analysis (in press) 
-[(Link)](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
-
 * Ferraccioli, F., **Casa, A.** & Stefanucci, M. (2024) <br>
 *An adaptive functional regression framework for locally heterogeneous signals in spectroscopy* <br>
-Journal of the Royal Statistical Society: Series C [(Link)](https://doi.org/10.1093/jrsssc/qlae040)
-
-* Frizzarin, M., Visentin, G., [...], Zappaterra, M. & **Casa, A.** (2023) <br>
-*Classification of cow diet based on milk Mid Infrared Spectra: A data analysis competition at the "International Workshop on Spectroscopy and Chemometrics 2022"* <br>
-Chemometrics and Intelligent Laboratory Systems, 104755
-[(Link)](https://www.sciencedirect.com/science/article/pii/S0169743923000059)
+Journal of the Royal Statistical Society: Series C, 73(5), 1370-1388 [(Link)](https://doi.org/10.1093/jrsssc/qlae040)
 
 * **Casa, A.**, Cappozzo, A. & Fop, M. (2022) <br>
 *Group-wise shrinkage estimation in penalized model-based clustering*. <br>
-Journal of Classification [(Link)](https://trebuchet.public.springernature.app/get_content/ad077255-1a27-483c-8bad-5e1dd35951ba)
+Journal of Classification, 39(3), 648-674 [(Link)](https://trebuchet.public.springernature.app/get_content/ad077255-1a27-483c-8bad-5e1dd35951ba)
+
 * **Casa, A.**, O'Callaghan, T.F. & Murphy, T.B. (2022). <br>
 *Parsimonious Bayesian Factor Analysis for modelling latent structures in spectroscopy data*. <br>
 Annals of Applied Statistics, 16(4), 2417--2436 [(Link)](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-4/Parsimonious-Bayesian-factor-analysis-for-modelling-latent-structures-in-spectroscopy/10.1214/21-AOAS1597.short)
+
 * **Casa, A.** & Menardi, G. (2022). <br> 
 *Nonparametric semi-supervised classification with application to signal detection in high energy physics.* <br>
 Statistical Methods & Applications, 31(3), 531--550 [(Link)](https://doi.org/10.1007/s10260-021-00585-3)
-* Frizzarin, M., Gormley, I.C., **Casa, A.** & McParland, S. (2021) <br>
-*Selecting milk spectra to develop equations to predict milk technological traits*. <br>
-Foods, 10(12), 3084.
-* Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., **Casa, A.**, [...], Vischia, P. & Weiler, A. (2021) <br>
-*Advanced multi-variate analysis methods for new physics searches at the Large Hadron Collider*. <br>
-Reviews in Physics, 7, 100063
-[(Link)](https://www.sciencedirect.com/science/article/pii/S2405428321000095)
-* Frizzarin, M., Bevilacqua, A., [...], Stefanucci, M. & **Casa, A.** (2021) <br>
-*Mid infrared spectroscopy and milk quality traits: a data analysis competition at the “International Workshop on Spectroscopy and Chemometrics 2021”* <br>
-Chemometrics and Intelligent Laboratory Systems, 219, 104442  [(Link)](https://www.sciencedirect.com/science/article/pii/S0169743921002100)
+
 * **Casa, A.**, Bouveyron, C., Erosheva, E. & Menardi, G. (2021). <br>
 *Co-clustering of time-dependent data via the Shape Invariant Model*. <br>
 Journal of Classification, 38(3), 626-649 [(Link)](https://link.springer.com/article/10.1007%2Fs00357-021-09402-8)
-* Frizzarin, M., O'Callaghan, T.F., Murphy, T.B., Hennessy, D. & **Casa, A.** (2021). <br>
-*Application of machine learning methods to milk mid-infrared spectra for discrimination of cows milk from pasture or total mixed ration diets*. <br>
-Journal of Dairy Science, 104(12), 12394-12402 [(Link)](https://www.sciencedirect.com/science/article/pii/S0022030221009097?dgcid=author).
-* **Casa, A.**, Fop, M. & Murphy, T.B. (2021). <br>
-*Contributed Discussion on "Centered partition processes: informative priors for clustering" by Paganin, S., Herring, A.H., Olshan, A.F. & Dunson, D.B.* <br>
-Bayesian Analysis, 16(1), 301-370.
-[(Link)](https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/Centered-Partition-Processes-Informative-Priors-for-Clustering-with-Discussion/10.1214/20-BA1197.full#abstract)
-* Frizzarin, M., Gormley, I.C., Berry, D.P., Murphy, T.B., **Casa, A.**, Lynch, A. & McParland, S. (2021). <br>
-*Predicting cow milk quality traits from routinely available milk spectra using statistical machine learning methods.* <br>
-Journal of Dairy Science, 104(7), 7438–7447. [(Link)](https://doi.org/10.3168/jds.2020-19576) 
+
 * **Casa, A.**, Scrucca, L. & Menardi, G. (2021). <br>
 *Better than the best? Answers via model ensemble in density-based clustering.* <br>
 Advances in Data Analysis and Classification, 15, 599-623. 
@@ -69,6 +48,47 @@ Advances in Data Analysis and Classification, 15, 599-623.
 * **Casa, A.**, Chacon, J.E. & Menardi, G. (2020). <br>
 *Modal clustering asymptotics with applications to bandwidth selection.* <br>
 Electronic Journal of Statistics, 14(1), 835-856. [(Link)](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1581130993)
+
+### Refereed discussions
+* **Casa, A.**, Fop, M. & D'Angelo, S. (2024) <br>
+*Contributed discussion on "Sparse Bayesian factor analysis when the number of factors is unknown" by Frühwirth-Schnatter, S., Hosszejni, D. & Freitas Lopes, H.* <br>
+Bayesian Analysis, 20(1), 213-344.
+[(Link)](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
+
+* **Casa, A.**, Fop, M. & Murphy, T.B. (2021). <br>
+*Contributed Discussion on "Centered partition processes: informative priors for clustering" by Paganin, S., Herring, A.H., Olshan, A.F. & Dunson, D.B.* <br>
+Bayesian Analysis, 16(1), 301-370.
+[(Link)](https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/Centered-Partition-Processes-Informative-Priors-for-Clustering-with-Discussion/10.1214/20-BA1197.full#abstract)
+
+### Articles in refereed journals (Cross-disciplinary)
+* Frizzarin, M., Hayes, E., **Casa, A.** & Berry, D.P. (2025) <br> *Comparison of the mid-infrared spectra and prediction equations development from morning and evening milk samples from a twice-a-day milked dairy cows* <br> Journal of Dairy Science, 108(2), 1573-1583
+
+* Frizzarin, M., Visentin, G., [...], Zappaterra, M. & **Casa, A.** (2023) <br>
+*Classification of cow diet based on milk Mid Infrared Spectra: A data analysis competition at the "International Workshop on Spectroscopy and Chemometrics 2022"* <br>
+Chemometrics and Intelligent Laboratory Systems, 104755
+[(Link)](https://www.sciencedirect.com/science/article/pii/S0169743923000059)
+
+* Frizzarin, M., Gormley, I.C., **Casa, A.** & McParland, S. (2021) <br>
+*Selecting milk spectra to develop equations to predict milk technological traits*. <br>
+Foods, 10(12), 3084.
+
+* Stakia, A., Dorigo, T., Banelli, G., Bortoletto, D., **Casa, A.**, [...], Vischia, P. & Weiler, A. (2021) <br>
+*Advanced multi-variate analysis methods for new physics searches at the Large Hadron Collider*. <br>
+Reviews in Physics, 7, 100063
+[(Link)](https://www.sciencedirect.com/science/article/pii/S2405428321000095)
+
+* Frizzarin, M., Bevilacqua, A., [...], Stefanucci, M. & **Casa, A.** (2021) <br>
+*Mid infrared spectroscopy and milk quality traits: a data analysis competition at the “International Workshop on Spectroscopy and Chemometrics 2021”* <br>
+Chemometrics and Intelligent Laboratory Systems, 219, 104442  [(Link)](https://www.sciencedirect.com/science/article/pii/S0169743921002100)
+
+* Frizzarin, M., O'Callaghan, T.F., Murphy, T.B., Hennessy, D. & **Casa, A.** (2021). <br>
+*Application of machine learning methods to milk mid-infrared spectra for discrimination of cows milk from pasture or total mixed ration diets*. <br>
+Journal of Dairy Science, 104(12), 12394-12402 [(Link)](https://www.sciencedirect.com/science/article/pii/S0022030221009097?dgcid=author).
+
+* Frizzarin, M., Gormley, I.C., Berry, D.P., Murphy, T.B., **Casa, A.**, Lynch, A. & McParland, S. (2021). <br>
+*Predicting cow milk quality traits from routinely available milk spectra using statistical machine learning methods.* <br>
+Journal of Dairy Science, 104(7), 7438–7447. [(Link)](https://doi.org/10.3168/jds.2020-19576) 
+
 
 ### Book Chapters 
 * **Casa, A.**, Cappozzo, A. & Fop, M. (2023). <br> *Penalized Model-Based Clustering with Group-Dependent Shrinkage Estimation.* <br> Building Bridges between Soft and Statistical Methodologies for Data Science. SMPS 2022. Advances in Intelligent Systems and Computing, vol 1433. Springer. https://doi.org/10.1007/978-3-031-15509-3_10

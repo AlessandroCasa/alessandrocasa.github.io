@@ -6,6 +6,8 @@ editor_options:
     wrap: 72
 ---
 
+- *High-dimensional covariance estimation via sparse pairwise composite likelihood* (March, 2025) <br> DSS Statistics Seminar, Sapienza Università di Roma [seminar]
+
 - *Adaptive functional regression for locally heterogeneous spectroscopic data* (December, 2024) <br> 18th International Joint Congerence CFE-CMStatistics, London [invited]
 
 - *Sparse model-based clustering of three-way data via lasso-type penalties* (July, 2024) <br> Working Group of Model-Based Clustering, University of Bologna - Bertinoro (FC)  [invited]
