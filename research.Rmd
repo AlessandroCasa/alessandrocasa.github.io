@@ -5,7 +5,7 @@ title: "Publications"
 ### Articles under review
 
 * **Casa, A.** & Ferrari, D. (2025+) <br>
-*Confidence set for mixture order selection*
+*Confidence set for mixture order selection* <br>
 arXiv:2503.18790 [(Link)](https://arxiv.org/abs/2503.18790)
 
 * Cappozzo, A. & **Casa, A.** (2024+) <br>
