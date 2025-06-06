@@ -6,6 +6,10 @@ editor_options:
     wrap: 72
 ---
 
+- *Truncated pairwise likelihood for sparse high-dimensional covariance estimation* (May, 2025) <br> Research Seminar Series, Institute of Statistics and Mathematics, Wirtschaftsuniversität Wien [seminar]
+
+- *Sparse high-dimensional covariance estimation via pairwise composite likelihood* (May, 2025) <br> Seminar Series, Department of Statistical Sciences, Università Cattolica del Sancro Cuore, Milano [seminar]
+
 - *High-dimensional covariance estimation via sparse pairwise composite likelihood* (March, 2025) <br> DSS Statistics Seminar, Sapienza Università di Roma [seminar]
 
 - *Adaptive functional regression for locally heterogeneous spectroscopic data* (December, 2024) <br> 18th International Joint Congerence CFE-CMStatistics, London [invited]
