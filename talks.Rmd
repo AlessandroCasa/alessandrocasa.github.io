@@ -6,6 +6,8 @@ editor_options:
     wrap: 72
 ---
 
+- *Penalized model-based clustering for covariance matrices* (June, 2025) <br> Intermediate conference of the Italian Statistical Society, Genova [invited]
+
 - *Truncated pairwise likelihood for sparse high-dimensional covariance estimation* (May, 2025) <br> Research Seminar Series, Institute of Statistics and Mathematics, Wirtschaftsuniversität Wien [seminar]
 
 - *Sparse high-dimensional covariance estimation via pairwise composite likelihood* (May, 2025) <br> Seminar Series, Department of Statistical Sciences, Università Cattolica del Sancro Cuore, Milano [seminar]

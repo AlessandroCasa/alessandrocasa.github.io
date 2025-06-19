@@ -4,6 +4,9 @@ title: "Publications"
 
 ### Articles under review
 
+* Gardella, J., Argiento, A., **Casa, A.** & Pini, A. (2025+) <br> *Addressing phase discrepancies in functional data: a Bayesian approach for accurate alignment and smoothing* <br>
+arXiv:2506.14650 [(Link)](https://arxiv.org/abs/2506.14650)
+
 * **Casa, A.** & Ferrari, D. (2025+) <br>
 *Confidence set for mixture order selection* <br>
 arXiv:2503.18790 [(Link)](https://arxiv.org/abs/2503.18790)
