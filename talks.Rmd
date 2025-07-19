@@ -6,6 +6,8 @@ editor_options:
     wrap: 72
 ---
 
+- *Model selection confidence sets for the number of mixture components* (July, 2025) <br> International Workshop on Statistical Modelling, Limerick [contributed]
+
 - *Penalized model-based clustering for covariance matrices* (June, 2025) <br> Intermediate conference of the Italian Statistical Society, Genova [invited]
 
 - *Truncated pairwise likelihood for sparse high-dimensional covariance estimation* (May, 2025) <br> Research Seminar Series, Institute of Statistics and Mathematics, Wirtschaftsuniversität Wien [seminar]
