@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: ""
 output:
   html_document:
     self_contained: false
@@ -19,7 +19,7 @@ output:
   .navbar-brand { font-weight: bold; font-size: 24px !important; }
 
   /* New styles for main content */
-  div[style*="margin-top: 30px;"] {
+  div[style*="margin-top: 50px;"] {
     font-size: 18px;
   }
 
@@ -48,7 +48,9 @@ output:
 </div>
 ```
 
-<div style="margin-top: 30px;">
+<div style="margin-top: 50px;">
+
+
 
 ### Articles under review
 
