@@ -1,41 +1,73 @@
 ---
 title: "About"
+output:
+  html_document:
+    self_contained: false
+    always_allow_html: true
 ---
+```{=html}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<style>
+  .navbar {
+    background-color: #f8f8f8;
+    border: none;
+    padding: 15px 20px;
+    font-size: 17px;
+  }
+  .navbar a { color: #555555; margin-right: 15px; text-decoration: none; }
+  .navbar-brand { font-weight: bold; font-size: 24px !important; }
 
-I am an Associate Professor of Statistics at the Faculty of Economics and Management, Free University of Bozen-Bolzano (Italy). My full CV is available [here](documents/cv.pdf) <br>
+  /* New styles for main content */
+  div[style*="margin-top: 30px;"] {
+    font-size: 18px;
+  }
 
-### Research 
-My research focuses on the development of flexible statistical methodologies to model high-dimensional and complex structured data, arising from different applied frameworks. More specifically, I am particularly interested on latent variable models, on the density-based formulation of the clustering problem and on the challenges arising when dealing with spectroscopic data. Recently, I started working on inferential problems arising in high-dimensional settings as for example when dealing with spatio-temporal data. <br>
-My main research interests are: 
+  div[style*="margin-top: 30px;"] h3 {
+    font-size: 26px;
+  }
+</style>
+<!-- Navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Alessandro Casa</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="bio.html">Short bio</a></li>
+        <li><a href="research.html">Publications</a></li>
+        <li><a href="teaching.html">Teaching & Software</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+```
 
-* Mixture models and model-based clustering <br>
-* Modal clustering <br>
-* Graphical models <br>
-* Variable selection and dimensionality reduction <br>
-* Latent variable models <br>
-* Inferential procedure for high-dimensional data <br>
-* Computational statistics <br> 
-* Chemometrics 
+<div style="margin-top: 30px;">
 
 
 
-### Working experience 
+### Academic positions 
 
-* **10/2024 - Ongoing** - Associate Professor, Faculty of Economics and Management, Free University of Bozen-Bolzano (Italy) <br>
-* **02/2024 - 09/2024** - Senior Assistant Professor (rtdB), Department of Economics, University of Bergamo (Italy) <br>
-* **01/2022 - 01/2024** - Junior Assistant Professor (rtdA), Faculty of Economics and Management, Free University of Bozen-Bolzano (Italy) <br>
-* **11/2019 - 12/2021** - Postdoctoral Research Fellow, School of Mathematics and Statistics, University College Dublin (Ireland) <br>
-<span style="display: inline-block; margin-left: 120px;">Affiliated with Vistamilk SFI Research Centre, Insight SFI Research Center, Supervisor Prof. T.B.Murphy  <br>
+* **10/2024 - Today** - Associate Professor, Faculty of Economics and Management, Free University of Bozen-Bolzano <br>
+* **02/2024 - 09/2024** - Senior Assistant Professor (rtdB), Department of Economics, University of Bergamo <br>
+* **01/2022 - 01/2024** - Junior Assistant Professor (rtdA), Faculty of Economics and Management, Free University of Bozen-Bolzano  <br>
+* **11/2019 - 12/2021** - Postdoctoral Research Fellow, School of Mathematics and Statistics, University College Dublin. Affiliated with Vistamilk SFI Research Centre, Insight SFI Research Center, Supervisor Prof. T.B.Murphy  <br>
 
 
 ### Education 
 * **[2016-2020]** - PhD in Statistics, University of Padova <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor Prof. Giovanna Menardi <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Thesis title: *Climbing modes and exploring mixtures: a journey in density-based clustering* [(Link)](http://paduaresearch.cab.unipd.it/12085/)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor Prof. Giovanna Menardi <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Thesis title: *Climbing modes and exploring mixtures: a journey in density-based clustering* [(Link)](http://paduaresearch.cab.unipd.it/12085/)
 * **[2014-2016]** - Master Degree in Statistical Sciences, University of Padova <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Final degree: 110/110 cum laude
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Final degree: 110/110 cum laude
 * **[2011-2014]** - Bachelor Degree in Statistics, Economics and Finance, University of Padova <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Final degree: 110/110 cum laude
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Final degree: 110/110 cum laude
 
 
 

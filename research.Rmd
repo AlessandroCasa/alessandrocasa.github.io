@@ -1,6 +1,54 @@
 ---
 title: "Publications"
+output:
+  html_document:
+    self_contained: false
+    always_allow_html: true
 ---
+```{=html}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<style>
+  .navbar {
+    background-color: #f8f8f8;
+    border: none;
+    padding: 15px 20px;
+    font-size: 17px;
+  }
+  .navbar a { color: #555555; margin-right: 15px; text-decoration: none; }
+  .navbar-brand { font-weight: bold; font-size: 24px !important; }
+
+  /* New styles for main content */
+  div[style*="margin-top: 30px;"] {
+    font-size: 18px;
+  }
+
+  div[style*="margin-top: 30px;"] h3 {
+    font-size: 26px;
+  }
+</style>
+<!-- Navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Alessandro Casa</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="bio.html">Short bio</a></li>
+        <li><a href="research.html">Publications</a></li>
+        <li><a href="teaching.html">Teaching & Software</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+```
+
+<div style="margin-top: 30px;">
 
 ### Articles under review
 
@@ -8,14 +56,15 @@ title: "Publications"
 arXiv:2506.14650 [(Link)](https://arxiv.org/abs/2506.14650)
 
 
-* **Casa, A.**, Ferrari, D. & Huang, Z. (2024+) <br>
+* **Casa, A.**, Ferrari, D. & Huang, Z. (2025+) <br>
 *High-dimensional covariance estimation by pairwise likelihood truncation* <br>
 arXiv:2407.07717 [(Link)](https://arxiv.org/pdf/2407.07717)
 
 ### Articles in refereed journals (Statistics)
+
 * **Casa, A.** & Ferrari, D. (2025) <br>
 *Confidence set for mixture order selection* <br>
-Statistics and Probability Letters (in press) [(Link)](https://arxiv.org/abs/2503.18790)
+Statistics and Probability Letters, 226, 110509 [(Link)](https://www.sciencedirect.com/science/article/pii/S0167715225001543)
 
 * Cappozzo, A. & **Casa, A.** (2025) <br>
 *Model-based clustering for covariance matrices via penalized Wishart mixture models* <br>
@@ -23,7 +72,7 @@ Computational Statistics and Data Analysis, 212, 108232 [(Link)](https://www.sci
 
 * Cappozzo, A., **Casa, A.** & Fop, M. (2025) <br>
 *Sparse model-based clustering of three-way data via lasso-type penalties* <br>
-Journal of Computational and Graphical Statistics (in press) [(Link)](https://doi.org/10.1080/10618600.2024.2429705)
+Journal of Computational and Graphical Statistics, 34 (3), 1030-1050 [(Link)](https://doi.org/10.1080/10618600.2024.2429705)
 
 * Ferraccioli, F., **Casa, A.** & Stefanucci, M. (2024) <br>
 *An adaptive functional regression framework for locally heterogeneous signals in spectroscopy* <br>
