@@ -1,20 +1,68 @@
 ---
 title: "Contact"
+output:
+  html_document:
+    self_contained: false
+    always_allow_html: true
 ---
+```{=html}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<style>
+  .navbar {
+    background-color: #f8f8f8;
+    border: none;
+    padding: 15px 20px;
+    font-size: 17px;
+  }
+  .navbar a { color: #555555; margin-right: 15px; text-decoration: none; }
+  .navbar-brand { font-weight: bold; font-size: 24px !important; }
+
+  /* New styles for main content */
+  div[style*="margin-top: 30px;"] {
+    font-size: 18px;
+  }
+
+  div[style*="margin-top: 30px;"] h3 {
+    font-size: 26px;
+  }
+</style>
+<!-- Navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Alessandro Casa</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="bio.html">Short bio</a></li>
+        <li><a href="research.html">Publications</a></li>
+        <li><a href="teaching.html">Teaching & Software</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+```
+
+<div style="margin-top: 30px;">
 &nbsp;
 Alessandro Casa <br>
 
 &nbsp;
-Department of Economics <br>
+Faculty of Economics and Management <br>
 
 &nbsp;
-University of Bergamo <br>
+Free University of Bozen-Bolzano <br>
 
 &nbsp;
-Via dei Caniana 2, 24127 Bergamo, Italy <br>
+Piazzetta dell'Università 1, 39031 Brunico <br>
 
 &nbsp;
-**Office** 266 <br>
+**Office** 3rd Floor at NOI Techpark, via Europa 9, 39031 Brunico  <br>
 
 &nbsp;
-**Email** alessandro (dot) casa (at) unibg (dot) it
+**Email** alessandro (dot) casa (at) unibz (dot) it
