@@ -114,6 +114,11 @@ output:
        
       <h3><i class="fa fa-bullhorn"></i> News</h3>
       <div class="news-container">
+         <div class="news-item">
+          <span class="news-date-hand">[12 | 2025]</span>
+          <span class="news-content-hand"> The paper <i>High-dimensional covariance estimation by pairwise likelihood truncation</i>, co-authored with Davide Ferrari and Zhendong Huang, has been accepted for publication in Biometrika (available at https://doi.org/10.1093/biomet/asaf087).</span>
+        </div>
+        <div style="height: 10px;"></div>
         <div class="news-item">
           <span class="news-date-hand">[10 | 2025]</span>
           <span class="news-content-hand">Davide La Vecchia, Davide Ferrari and myself have been awarded a Swiss National Science Foundation grant for the project <i>Learning Complex Networks from Economic Data: Theory, Methods and Algorithms</i>.</span>
