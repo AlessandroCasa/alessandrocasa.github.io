@@ -114,6 +114,11 @@ output:
        
       <h3><i class="fa fa-bullhorn"></i> News</h3>
       <div class="news-container">
+        <div class="news-item">
+          <span class="news-date-hand">[12 | 2025]</span>
+          <span class="news-content-hand"> Our preprint <i>A latent variable model for identifying and characterizing food adulteration</i>, co-authored with Brendan Murphy and Michael Fop, has been added on arXiv (available at https://arxiv.org/abs/2512.13939).</span>
+        </div>
+          <div style="height: 10px;"></div>
          <div class="news-item">
           <span class="news-date-hand">[12 | 2025]</span>
           <span class="news-content-hand"> The paper <i>High-dimensional covariance estimation by pairwise likelihood truncation</i>, co-authored with Davide Ferrari and Zhendong Huang, has been accepted for publication in Biometrika (available at https://doi.org/10.1093/biomet/asaf087).</span>

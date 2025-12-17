@@ -54,6 +54,9 @@ output:
 
 ### Articles under review
 
+* **Casa, A.**, Murphy, T.B. & Fop, M. (2025+) <br> *A latent variable model for identifying and characterizing food adulteration* <br>
+arXiv:2512.13939 [(Link)](https://arxiv.org/abs/2512.13939)
+
 * Gardella, J., Argiento, A., **Casa, A.** & Pini, A. (2025+) <br> *Addressing phase discrepancies in functional data: a Bayesian approach for accurate alignment and smoothing* <br>
 arXiv:2506.14650 [(Link)](https://arxiv.org/abs/2506.14650)
 
