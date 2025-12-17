@@ -133,12 +133,6 @@ output:
           <span class="news-date-hand">[09 | 2025]</span>
           <span class="news-content-hand">Scientific Board Member of CLADAG (Classification and Data Analysis Group of the Italian Statistical Society) for the next two years.</span>
         </div>
-        <div style="height: 10px;"></div>
-        <div class="news-item">
-          <span class="news-date-hand">[10 | 2024]</span>
-          <span class="news-content-hand">Started my new position as Associate Professor of Statistics at the Free University of Bozen-Bolzano.</span>
-        </div>
-      </div>
     </div>
   </div>
 
