@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: ""
 output:
   html_document:
     self_contained: false
@@ -19,7 +19,7 @@ output:
   .navbar-brand { font-weight: bold; font-size: 24px !important; }
 
   /* New styles for main content */
-  div[style*="margin-top: 30px;"] {
+  div[style*="margin-top: 50px;"] {
     font-size: 18px;
   }
 
@@ -48,19 +48,23 @@ output:
 </div>
 ```
 
-<div style="margin-top: 30px;">
+<div style="margin-top: 50px;">
+
+
 
 ### Articles under review
+
+* **Casa, A.**, Murphy, T.B. & Fop, M. (2025+) <br> *A latent variable model for identifying and characterizing food adulteration* <br>
+arXiv:2512.13939 [(Link)](https://arxiv.org/abs/2512.13939)
 
 * Gardella, J., Argiento, A., **Casa, A.** & Pini, A. (2025+) <br> *Addressing phase discrepancies in functional data: a Bayesian approach for accurate alignment and smoothing* <br>
 arXiv:2506.14650 [(Link)](https://arxiv.org/abs/2506.14650)
 
-
-* **Casa, A.**, Ferrari, D. & Huang, Z. (2025+) <br>
-*High-dimensional covariance estimation by pairwise likelihood truncation* <br>
-arXiv:2407.07717 [(Link)](https://arxiv.org/pdf/2407.07717)
-
 ### Articles in refereed journals (Statistics)
+
+* **Casa, A.**, Ferrari, D. & Huang, Z. (2025) <br>
+*High-dimensional covariance estimation by pairwise likelihood truncation* <br>
+Biometrika (just accepted) [(Link)](https://doi.org/10.1093/biomet/asaf087)
 
 * **Casa, A.** & Ferrari, D. (2025) <br>
 *Confidence set for mixture order selection* <br>

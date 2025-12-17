@@ -12,8 +12,6 @@ navbar:
       href: bio.html
     - text: "Publications"
       href: research.html
-    - text: "Talks"
-      href: talks.html  
     - text: "Teaching & Software"
       href: teaching.html
     - text: "Contact"
