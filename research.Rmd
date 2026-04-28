@@ -60,10 +60,10 @@ arXiv:2512.13939 [(Link)](https://arxiv.org/abs/2512.13939)
 
 ### Articles in refereed journals (Statistics)
 
-* Gardella, J., Argiento, A., **Casa, A.** & Pini, A. (2025+) <br> *Addressing phase discrepancies in functional data: a Bayesian approach for accurate alignment and smoothing* <br>
+* Gardella, J., Argiento, A., **Casa, A.** & Pini, A. (2026) <br> *Addressing phase discrepancies in functional data: a Bayesian approach for accurate alignment and smoothing* <br>
 Annals of Applied Statistics (just accepted) [(Link)](https://arxiv.org/abs/2506.14650)
 
-* **Casa, A.**, Ferrari, D. & Huang, Z. (2025) <br>
+* **Casa, A.**, Ferrari, D. & Huang, Z. (2026) <br>
 *High-dimensional covariance estimation by pairwise likelihood truncation* <br>
 Biometrika, 113(1), [(Link)](https://doi.org/10.1093/biomet/asaf087)
 
