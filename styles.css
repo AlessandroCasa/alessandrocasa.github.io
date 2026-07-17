@@ -1,93 +1,123 @@
-/* styles.css */
+/* styles.css — shared styles for all pages */
 
-/* Overall container width adjustment */
-.container-fluid.main-container {
-  max-width: 80%; /* Adjust as needed, try values between 70% and 90% */
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 20px; /* Add some left padding */
-  padding-right: 20px; /* Add some right padding */
+:root {
+  --accent: #d7e2c5;      /* sage, slightly deeper — navbar background and light accents */
+  --accent-deep: #4e6139; /* deep sage — used for text/icons, readable on white */
 }
 
-.container {
-  display: flex;
-  align-items: flex-start; /* Align items to the top */
-  margin-top: 40px; /* Adjust top margin */
-  margin-bottom: 40px; /* Adjust bottom margin */
-  max-width: 100%; /* Make the inner container take full width of the main container */
-  margin-left: auto;
-  margin-right: auto;
+body {
+  font-family: 'Inter', -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 15px;
 }
 
-.image-column {
-  flex-basis: 250px; /* Smaller width for the image */
-  max-width: 250px;
-  margin-right: 30px; /* Adjust spacing */
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
 }
 
-.image-column img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 10px;
+/* Navbar (single, site-wide navbar generated from _site.yml) */
+.navbar {
+  background-color: var(--accent);
+  border: none;
+  padding: 15px 20px;
+  font-size: 16px;
 }
 
-.text-column {
-  flex-grow: 1;
-  text-align: left; /* Align text to the left */
+.navbar a {
+  color: #555555;
+}
+
+.navbar a:hover,
+.navbar a:focus {
+  color: var(--accent-deep);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 20px !important;
+}
+
+/* Auto-generated page title (from each page's YAML `title:`) */
+h1.title {
+  margin-top: 45px;
+  font-size: 28px;
+}
+
+/* Generic page content wrapper (bio, research, teaching, contact) */
+.page-content {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.page-content h3 {
+  font-size: 21px;
+  display: inline-block;
+  border-bottom: 3px solid var(--accent);
+  padding-bottom: 4px;
+}
+
+/* Homepage intro block */
+.intro-row {
+  margin-top: 80px;
+  align-items: center;
+}
+
+.intro-photo img {
+  max-height: 300px;
+  width: auto;
+  border-radius: 20px;
+}
+
+.intro-text-col {
   display: flex;
   flex-direction: column;
-  justify-content: center; /* Vertically center text */
+  justify-content: center;
+  text-align: left;
 }
 
-.name {
-  color: black;
-  font-size: 2.2em; /* Adjust font size */
-  margin-bottom: 8px;
-}
-
-.title {
-  color: #555; /* Darker grey */
-  font-size: 1.2em; /* Adjust font size */
-  margin-top: 0;
-  margin-bottom: 15px;
-}
-
-.icons {
-  margin-top: 20px;
-  display: flex;
-  justify-content: flex-start; /* Align icons to the left */
-}
-
-.icons a {
+.social-icons a {
+  color: #555555;
   margin-right: 15px;
-  font-size: 1.5em; /* Adjust icon size */
-  color: #555;
+  display: inline-block;
 }
 
-.below-text {
-  margin-top: 30px;
-  text-align: left; /* Align text to the left */
-  line-height: 1.6; /* Improve readability */
-  max-width: 100%; /* Take full width of the main container */
-  padding-left: 30px; /* Adjust indentation */
-  position: relative;
+.social-icons a:hover {
+  color: var(--accent-deep);
 }
 
-.paragraph-icon {
-  margin-right: 8px;
-  font-size: 1em; /* Adjust icon size */
-  color: #555;
-  position: absolute;
-  left: 0;
-  top: 0.2em;
+/* Homepage "News" heading + date badges */
+.intro-text h3 {
+  display: inline-block;
+  border-bottom: 3px solid var(--accent);
+  padding-bottom: 4px;
 }
 
-.paragraph-icon-indent {
-  margin-right: 8px;
-  font-size: 1em; /* Adjust icon size */
-  color: #555;
-  position: absolute;
-  left: 0;
-  top: 1.2em;
+.intro-text h3 i.fa-bullhorn {
+  color: var(--accent-deep);
+}
+
+.news-date-hand {
+  display: inline-block;
+  background: var(--accent);
+  color: #3f5230;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.news-heading {
+  margin-top: 24px;
+}
+
+.intro-text {
+  font-size: 16px;
+  margin-top: 45px;
+  text-align: left;
+}
+
+@media (max-width: 767px) {
+  .intro-text-col {
+    text-align: center;
+    margin-top: 20px;
+  }
 }

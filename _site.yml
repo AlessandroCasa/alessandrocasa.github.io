@@ -2,6 +2,9 @@ output:
   html_document:
     theme: lumen
     highlight: textmate
+    css: styles.css
+    includes:
+      in_header: header.html
 
 name: "my-website"
 navbar:
